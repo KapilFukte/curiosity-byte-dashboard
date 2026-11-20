@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T12:49:31+00:00",
+ "generated_at": "2026-11-20T17:20:34+00:00",
  "channel": {
   "id": "UCIqsSPGCNSqpGZ38gzoWVug",
   "title": "CURIOSITY-BYTE ",
@@ -8,7 +8,7 @@
   "thumbnail": "https://yt3.ggpht.com/YRHdMXed5WcK0RPcMupr8g0TYDuQjTPXRytKM1iRa9yOfyABzCAJnyEI8SbiPxKf2_kyQAkkuQ=s240-c-k-c0x00ffffff-no-rj",
   "subscribers": 33,
   "total_views": 25757,
-  "video_count": 114
+  "video_count": 115
  },
  "first_upload": "2026-10-13T18:10:17Z",
  "videos": [
@@ -250,7 +250,7 @@
    "id": "KHN--qgjYZE",
    "title": "India's Secret Files #13: The Secret 1962 India-China War Report",
    "published": "2026-10-29T23:00:27Z",
-   "views": 595,
+   "views": 596,
    "likes": 9,
    "comments": 4,
    "seconds": 58,
@@ -664,7 +664,7 @@
    "id": "kNnSz6K9Cgk",
    "title": "Was Shastri Poisoned in Tashkent? (Theory)",
    "published": "2026-10-25T07:30:34Z",
-   "views": 178,
+   "views": 179,
    "likes": 4,
    "comments": 2,
    "seconds": 54,
@@ -952,8 +952,8 @@
    "id": "S2pBw9rChzc",
    "title": "Lucky Strike's Torches of Freedom Stunt (1929)",
    "published": "2026-11-18T07:30:22Z",
-   "views": 91,
-   "likes": 1,
+   "views": 93,
+   "likes": 2,
    "comments": 1,
    "seconds": 49,
    "made_by": "bot",
@@ -1183,6 +1183,24 @@
    "engaged": 26
   },
   {
+   "id": "A4HVbQzf_MU",
+   "title": "Diego Garcia: The Base Built by Emptying Islands",
+   "published": "2026-11-20T07:30:28Z",
+   "views": 62,
+   "likes": 3,
+   "comments": 1,
+   "seconds": 53,
+   "made_by": "bot",
+   "freshness": "evergreen",
+   "region": "world",
+   "type": "declassified",
+   "avg_pct": null,
+   "avg_sec": null,
+   "shares": null,
+   "subs": null,
+   "engaged": null
+  },
+  {
    "id": "Zwjdwhb_nwU",
    "title": "Elon Musk's Starlink Can Slow Down an Army 🛰️",
    "published": "2026-10-23T14:30:09Z",
@@ -1327,16 +1345,16 @@
    "engaged": 16
   },
   {
-   "id": "A4HVbQzf_MU",
-   "title": "Diego Garcia: The Base Built by Emptying Islands",
-   "published": "2026-11-20T07:30:28Z",
-   "views": 46,
-   "likes": 3,
+   "id": "ADRx6dwJnzY",
+   "title": "How One Briton Drew India's Border in 5 Weeks",
+   "published": "2026-11-18T14:30:07Z",
+   "views": 45,
+   "likes": 0,
    "comments": 1,
-   "seconds": 53,
+   "seconds": 49,
    "made_by": "bot",
    "freshness": "evergreen",
-   "region": "world",
+   "region": "india",
    "type": "declassified",
    "avg_pct": null,
    "avg_sec": null,
@@ -1361,24 +1379,6 @@
    "shares": 0,
    "subs": 0,
    "engaged": 15
-  },
-  {
-   "id": "ADRx6dwJnzY",
-   "title": "How One Briton Drew India's Border in 5 Weeks",
-   "published": "2026-11-18T14:30:07Z",
-   "views": 44,
-   "likes": 0,
-   "comments": 1,
-   "seconds": 49,
-   "made_by": "bot",
-   "freshness": "evergreen",
-   "region": "india",
-   "type": "declassified",
-   "avg_pct": null,
-   "avg_sec": null,
-   "shares": null,
-   "subs": null,
-   "engaged": null
   },
   {
    "id": "1CrqC0ngvLM",
@@ -1597,6 +1597,24 @@
    "engaged": 14
   },
   {
+   "id": "OPmDfQLhTZw",
+   "title": "How India Took Air India From Tata and Sold It Back",
+   "published": "2026-11-20T14:30:39Z",
+   "views": 24,
+   "likes": 2,
+   "comments": 1,
+   "seconds": 53,
+   "made_by": "bot",
+   "freshness": "evergreen",
+   "region": "india",
+   "type": "declassified",
+   "avg_pct": null,
+   "avg_sec": null,
+   "shares": null,
+   "subs": null,
+   "engaged": null
+  },
+  {
    "id": "nLEoIzOqd30",
    "title": "Why Bhopal's Victims Got Only 470 Million",
    "published": "2026-11-12T14:30:36Z",
@@ -1777,6 +1795,24 @@
    "engaged": 8
   },
   {
+   "id": "LY5p6TDpErU",
+   "title": "India's Secret Files #35: Why India Paid Its Maharajas Until 1971",
+   "published": "2026-11-20T00:00:05Z",
+   "views": 16,
+   "likes": 2,
+   "comments": 2,
+   "seconds": 50,
+   "made_by": "bot",
+   "freshness": "evergreen",
+   "region": "india",
+   "type": "declassified",
+   "avg_pct": null,
+   "avg_sec": null,
+   "shares": null,
+   "subs": null,
+   "engaged": null
+  },
+  {
    "id": "f-BwrWb4U_I",
    "title": "France Made Haiti Pay for Freedom: The 1825 Debt",
    "published": "2026-11-11T14:30:29Z",
@@ -1867,28 +1903,10 @@
    "engaged": 7
   },
   {
-   "id": "LY5p6TDpErU",
-   "title": "India's Secret Files #35: Why India Paid Its Maharajas Until 1971",
-   "published": "2026-11-20T00:00:05Z",
-   "views": 11,
-   "likes": 1,
-   "comments": 1,
-   "seconds": 50,
-   "made_by": "bot",
-   "freshness": "evergreen",
-   "region": "india",
-   "type": "declassified",
-   "avg_pct": null,
-   "avg_sec": null,
-   "shares": null,
-   "subs": null,
-   "engaged": null
-  },
-  {
    "id": "KVGX-aV2TjE",
    "title": "The Nizam's Lost Million Pounds That Became £35M",
    "published": "2026-11-19T00:00:21Z",
-   "views": 10,
+   "views": 11,
    "likes": 1,
    "comments": 1,
    "seconds": 51,
@@ -2050,7 +2068,7 @@
    "id": "iYv8GzfFO2I",
    "title": "Big Sugar Paid Harvard to Blame Fat (1967)",
    "published": "2026-11-19T14:30:30Z",
-   "views": 1,
+   "views": 2,
    "likes": 0,
    "comments": 1,
    "seconds": 53,
@@ -2322,11 +2340,11 @@
  "traffic": [
   [
    "Shorts feed (swiping)",
-   22222
+   22233
   ],
   [
    "YouTube search",
-   2559
+   2558
   ],
   [
    "Channel page",
@@ -2368,18 +2386,18 @@
  "scheduled": {
   "count": 1,
   "times": [
-   "2026-11-20T14:30:00+00:00"
+   "2026-11-21T00:00:00+00:00"
   ]
  },
  "queue": {
-  "total": 15,
+  "total": 14,
   "trending": 0,
-  "evergreen": 15,
+  "evergreen": 14,
   "india": 8,
-  "world": 7,
-  "declassified": 15,
+  "world": 6,
+  "declassified": 14,
   "theory": 0,
-  "days_of_videos": 5.0
+  "days_of_videos": 4.7
  },
  "automation": {
   "schedules": [
@@ -2431,11 +2449,19 @@
   ],
   "runs": [
    {
-    "workflow": "Channel stats",
+    "workflow": "Daily Short",
     "status": "in_progress",
     "result": null,
-    "started": "2026-11-20T12:49:02Z",
+    "started": "2026-11-20T17:06:42Z",
     "minutes": null,
+    "event": "schedule"
+   },
+   {
+    "workflow": "Channel stats",
+    "status": "completed",
+    "result": "success",
+    "started": "2026-11-20T12:49:02Z",
+    "minutes": 0.7,
     "event": "schedule"
    },
    {
@@ -2740,14 +2766,6 @@
     "result": "success",
     "started": "2026-11-15T17:55:11Z",
     "minutes": 0.8,
-    "event": "schedule"
-   },
-   {
-    "workflow": "Daily Short",
-    "status": "completed",
-    "result": "success",
-    "started": "2026-11-15T15:46:37Z",
-    "minutes": 10.7,
     "event": "schedule"
    }
   ]
