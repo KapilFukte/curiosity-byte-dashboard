@@ -1,0 +1,150 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Curiosity Byte Dashboard</title>
+  <meta name="description" content="Live progress of the Curiosity Byte YouTube channel: views, subscribers, every video, schedule and automation.">
+  <meta name="theme-color" content="#0b0c0f">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Ccircle cx='16' cy='16' r='14' fill='%23e5484d'/%3E%3Cpath d='M12 10l10 6-10 6z' fill='white'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="assets/style.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+</head>
+<body>
+  <header class="topbar">
+    <div class="wrap">
+      <a class="brand" href="index.html"><img id="ch-thumb" alt="" hidden><span class="dot" id="ch-dot"></span><span class="name" id="ch-name">Curiosity Byte</span></a>
+      <nav class="nav"><a class="active" href="index.html">Dashboard</a><a href="info.html">How it works</a></nav>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <section class="hero">
+      <div>
+        <h1>Channel progress</h1>
+        <p>Every number on this page comes straight from YouTube. View counts of the newest videos refresh every hour; everything else updates after each bot run and every morning.</p>
+      </div>
+      <div class="fresh">
+        <span class="pill"><span class="pulse"></span><span id="live-age">Loading…</span></span>
+        <span id="data-age"></span>
+      </div>
+    </section>
+
+    <div class="grid kpis" id="kpis"></div>
+
+    <h3 class="section-title">Views</h3>
+    <div class="grid two">
+      <div class="card">
+        <h2>Daily views</h2>
+        <p class="sub">Views per day with the 7-day average · YouTube Analytics, 1–2 days behind</p>
+        <div class="tools"><div class="seg" id="range"></div></div>
+        <div class="chart-box tall"><canvas id="c-daily" role="img" aria-label="Daily views chart"></canvas></div>
+      </div>
+      <div class="card">
+        <h2>Total views over time</h2>
+        <p class="sub">Running total since the first upload</p>
+        <div class="tools"><div class="seg"><button class="on" disabled>All time</button></div></div>
+        <div class="chart-box tall"><canvas id="c-cum" role="img" aria-label="Cumulative views chart"></canvas></div>
+      </div>
+    </div>
+
+    <h3 class="section-title">Audience</h3>
+    <div class="grid two">
+      <div class="card">
+        <h2>Subscribers per day</h2>
+        <p class="sub">New subscribers minus lost ones</p>
+        <div class="chart-box"><canvas id="c-subs" role="img" aria-label="Subscribers per day chart"></canvas></div>
+      </div>
+      <div class="card">
+        <h2>Where the views come from</h2>
+        <p class="sub">Share of all views by traffic source</p>
+        <div class="chart-box"><canvas id="c-traffic" role="img" aria-label="Traffic sources chart"></canvas></div>
+      </div>
+    </div>
+
+    <h3 class="section-title">Videos</h3>
+    <div class="grid two">
+      <div class="card">
+        <h2>Top 10 videos</h2>
+        <p class="sub">Most viewed, live counts where available</p>
+        <div class="chart-box tall"><canvas id="c-top" role="img" aria-label="Top videos chart"></canvas></div>
+      </div>
+      <div class="card">
+        <h2>What works</h2>
+        <p class="sub">Average views per video by kind (bot videos)</p>
+        <div class="chart-box tall"><canvas id="c-kind" role="img" aria-label="Average views by video kind chart"></canvas></div>
+      </div>
+    </div>
+
+    <h3 class="section-title">SEO</h3>
+    <div class="grid three">
+      <div class="card">
+        <h2>Emoji in the title</h2>
+        <p class="sub">Average views: titles with a topic emoji vs without</p>
+        <div class="chart-box short"><canvas id="c-emoji" role="img" aria-label="Emoji versus no emoji chart"></canvas></div>
+      </div>
+      <div class="card">
+        <h2>Title length</h2>
+        <p class="sub">Average views by title length (characters)</p>
+        <div class="chart-box short"><canvas id="c-len" role="img" aria-label="Title length chart"></canvas></div>
+      </div>
+      <div class="card">
+        <h2>Watch-through</h2>
+        <p class="sub">Average % of each Short watched, by view group</p>
+        <div class="chart-box short"><canvas id="c-watch" role="img" aria-label="Watch-through chart"></canvas></div>
+      </div>
+    </div>
+
+    <h3 class="section-title">Pipeline</h3>
+    <div class="grid three">
+      <div class="card">
+        <h2>Scheduled videos</h2>
+        <p class="sub">Uploaded and waiting to go public (titles stay private)</p>
+        <div id="scheduled"></div>
+      </div>
+      <div class="card">
+        <h2>Script queue</h2>
+        <p class="sub">Fact-checked scripts waiting to become videos</p>
+        <div id="queue"></div>
+      </div>
+      <div class="card">
+        <h2>Automation</h2>
+        <p class="sub">Latest bot runs on GitHub</p>
+        <div id="automation"></div>
+      </div>
+    </div>
+
+    <div class="grid two" style="margin-top:16px">
+      <div class="card">
+        <h2>Next runs</h2>
+        <p class="sub">When the bot works next (your local time)</p>
+        <div id="next-runs"></div>
+      </div>
+      <div class="card">
+        <h2>Improvements</h2>
+        <p class="sub">What changed, and when</p>
+        <ul class="timeline" id="improvements"></ul>
+      </div>
+    </div>
+
+    <h3 class="section-title">Every video</h3>
+    <div class="card">
+      <div class="table-tools">
+        <input class="search" id="q" type="search" placeholder="Search titles…" aria-label="Search titles">
+        <div class="seg" id="filter"></div>
+      </div>
+      <div class="table-wrap">
+        <table>
+          <thead><tr id="thead"></tr></thead>
+          <tbody id="tbody"></tbody>
+        </table>
+      </div>
+      <p class="sub" style="margin:10px 0 0" id="table-note"></p>
+    </div>
+
+    <p class="foot">Curiosity Byte · made automatically from YouTube data · <a href="info.html">How it works</a></p>
+  </main>
+
+  <script src="assets/app.js"></script>
+</body>
+</html>
