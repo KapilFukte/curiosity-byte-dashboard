@@ -101,7 +101,9 @@ function noData(id, text) { $(id).parentElement.innerHTML = `<p class="empty">${
 function kpis(dash, merged) {
   const ch = dash?.channel || {};
   const vids = merged.list;
-  const totalViews = (ch.total_views ?? vids.reduce((s, v) => s + (v.views || 0), 0)) + merged.extra;
+  // YouTube's channel counter lags behind the per-video counts: show whichever is fresher (higher).
+  const sumVideos = vids.reduce((s, v) => s + (v.views || 0), 0);
+  const totalViews = Math.max((ch.total_views ?? 0) + merged.extra, sumVideos);
   const daily = dash?.daily || [];
   const last = (n, off = 0) => daily.slice(Math.max(0, daily.length - n - off), daily.length - off).reduce((s, d) => s + d.views, 0);
   const v7 = last(7), p7 = last(7, 7);
@@ -112,7 +114,7 @@ function kpis(dash, merged) {
   const days = first ? Math.floor((NOW - first.getTime()) / DAY) : null;
   const best = vids[0];
   const items = [
-    ["Total views", fmt(totalViews), merged.extra ? `incl. ${fmt(merged.extra)} counted live since the last full update` : "all videos, all time"],
+    ["Total views", fmt(totalViews), merged.extra ? `incl. ${fmt(merged.extra)} counted live this hour` : "all public videos, all time"],
     ["Subscribers", fmt(ch.subscribers), daily.length ? `${subs28 >= 0 ? "+" : ""}${fmt(subs28)} in the last 28 days` : ""],
     ["Public videos", fmt(vids.length), dash?.scheduled?.count ? `+${dash.scheduled.count} scheduled` : ""],
     ["Views · last 7 days", fmt(v7), delta == null ? "Analytics, 1–2 days behind" :
@@ -337,7 +339,7 @@ function table(merged) {
     return;
   }
   const ch = dash?.channel;
-  if (ch?.title) { $("ch-name").textContent = ch.title; document.title = `${ch.title} · Dashboard`; }
+  if (ch?.title) { const name = ch.title.trim(); $("ch-name").textContent = name; document.title = `${name} · Dashboard`; }
   if (ch?.thumbnail) { const img = $("ch-thumb"); img.src = ch.thumbnail; img.hidden = false; $("ch-dot").hidden = true; }
   $("live-age").textContent = live?.fetched_at ? `Live views updated ${ago(live.fetched_at)}` : "Live views: waiting for the first hourly update";
   $("data-age").textContent = dash?.generated_at ? `Full data updated ${ago(dash.generated_at)}` : "";
