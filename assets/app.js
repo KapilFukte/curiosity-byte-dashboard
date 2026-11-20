@@ -330,6 +330,12 @@ function table(merged) {
     $("kpis").innerHTML = '<div class="card"><p class="empty">The first data arrives after the bot\'s next run. Refresh this page later.</p></div>';
     return;
   }
+  if (!dash) {
+    // Only the hourly feed so far (15 newest videos): never show partial sums as channel totals.
+    $("live-age").textContent = live?.fetched_at ? `Live views updated ${ago(live.fetched_at)}` : "Loading…";
+    $("kpis").innerHTML = '<div class="card"><p class="empty">The full channel data arrives after the bot\'s next run (every morning and after each video). Refresh this page later.</p></div>';
+    return;
+  }
   const ch = dash?.channel;
   if (ch?.title) { $("ch-name").textContent = ch.title; document.title = `${ch.title} · Dashboard`; }
   if (ch?.thumbnail) { const img = $("ch-thumb"); img.src = ch.thumbnail; img.hidden = false; $("ch-dot").hidden = true; }
