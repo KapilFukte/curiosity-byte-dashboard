@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T22:20:47+00:00",
+ "generated_at": "2026-11-21T08:57:29+00:00",
  "channel": {
   "id": "UCIqsSPGCNSqpGZ38gzoWVug",
   "title": "CURIOSITY-BYTE ",
@@ -7,8 +7,8 @@
   "created": "2024-09-01T07:38:30.449317Z",
   "thumbnail": "https://yt3.ggpht.com/YRHdMXed5WcK0RPcMupr8g0TYDuQjTPXRytKM1iRa9yOfyABzCAJnyEI8SbiPxKf2_kyQAkkuQ=s240-c-k-c0x00ffffff-no-rj",
   "subscribers": 33,
-  "total_views": 25757,
-  "video_count": 115
+  "total_views": 25820,
+  "video_count": 116
  },
  "first_upload": "2026-10-13T18:10:17Z",
  "videos": [
@@ -304,7 +304,7 @@
    "id": "WXyukzF3dOs",
    "title": "1MDB: Malaysia's Missing Billions",
    "published": "2026-11-14T00:00:16Z",
-   "views": 515,
+   "views": 516,
    "likes": 10,
    "comments": 1,
    "seconds": 53,
@@ -448,7 +448,7 @@
    "id": "4ChDyQ-yrMM",
    "title": "How RAW Helped Create Bangladesh In 1971",
    "published": "2026-11-13T14:30:06Z",
-   "views": 275,
+   "views": 276,
    "likes": 2,
    "comments": 1,
    "seconds": 56,
@@ -502,7 +502,7 @@
    "id": "5QjbvGH74tM",
    "title": "Phoebus Cartel: Were Light Bulbs Built to Fail?",
    "published": "2026-11-09T07:30:21Z",
-   "views": 223,
+   "views": 224,
    "likes": 4,
    "comments": 2,
    "seconds": 54,
@@ -528,7 +528,7 @@
    "freshness": "trending",
    "region": "world",
    "type": "declassified",
-   "avg_pct": 39.72,
+   "avg_pct": 40.29,
    "avg_sec": 22,
    "shares": 0,
    "subs": 0,
@@ -870,8 +870,8 @@
    "freshness": "trending",
    "region": "world",
    "type": "declassified",
-   "avg_pct": 45.53,
-   "avg_sec": 25,
+   "avg_pct": 44.62,
+   "avg_sec": 24,
    "shares": 0,
    "subs": 0,
    "engaged": 58
@@ -916,7 +916,7 @@
    "id": "S2pBw9rChzc",
    "title": "Lucky Strike's Torches of Freedom Stunt (1929)",
    "published": "2026-11-18T07:30:22Z",
-   "views": 98,
+   "views": 99,
    "likes": 2,
    "comments": 1,
    "seconds": 49,
@@ -965,6 +965,24 @@
    "shares": 0,
    "subs": 0,
    "engaged": 49
+  },
+  {
+   "id": "A4HVbQzf_MU",
+   "title": "Diego Garcia: The Base Built by Emptying Islands",
+   "published": "2026-11-20T07:30:28Z",
+   "views": 87,
+   "likes": 3,
+   "comments": 1,
+   "seconds": 53,
+   "made_by": "bot",
+   "freshness": "evergreen",
+   "region": "world",
+   "type": "declassified",
+   "avg_pct": null,
+   "avg_sec": null,
+   "shares": null,
+   "subs": null,
+   "engaged": null
   },
   {
    "id": "KDYKXopn0uw",
@@ -1129,28 +1147,10 @@
    "engaged": 40
   },
   {
-   "id": "A4HVbQzf_MU",
-   "title": "Diego Garcia: The Base Built by Emptying Islands",
-   "published": "2026-11-20T07:30:28Z",
-   "views": 73,
-   "likes": 3,
-   "comments": 1,
-   "seconds": 53,
-   "made_by": "bot",
-   "freshness": "evergreen",
-   "region": "world",
-   "type": "declassified",
-   "avg_pct": null,
-   "avg_sec": null,
-   "shares": null,
-   "subs": null,
-   "engaged": null
-  },
-  {
    "id": "MhA_l8DnRVQ",
    "title": "ITT, the CIA and a $1 Million Offer on Chile",
    "published": "2026-11-15T14:30:25Z",
-   "views": 66,
+   "views": 67,
    "likes": 2,
    "comments": 1,
    "seconds": 58,
@@ -1237,6 +1237,24 @@
    "engaged": 34
   },
   {
+   "id": "OPmDfQLhTZw",
+   "title": "How India Took Air India From Tata and Sold It Back",
+   "published": "2026-11-20T14:30:39Z",
+   "views": 60,
+   "likes": 2,
+   "comments": 1,
+   "seconds": 53,
+   "made_by": "bot",
+   "freshness": "evergreen",
+   "region": "india",
+   "type": "declassified",
+   "avg_pct": null,
+   "avg_sec": null,
+   "shares": null,
+   "subs": null,
+   "engaged": null
+  },
+  {
    "id": "6ucLg2eubKQ",
    "title": "Unsolved Files #9: Was Marilyn Monroe Silenced? (Theory)",
    "published": "2026-11-07T00:00:02Z",
@@ -1307,24 +1325,6 @@
    "shares": 0,
    "subs": 0,
    "engaged": 23
-  },
-  {
-   "id": "OPmDfQLhTZw",
-   "title": "How India Took Air India From Tata and Sold It Back",
-   "published": "2026-11-20T14:30:39Z",
-   "views": 50,
-   "likes": 2,
-   "comments": 1,
-   "seconds": 53,
-   "made_by": "bot",
-   "freshness": "evergreen",
-   "region": "india",
-   "type": "declassified",
-   "avg_pct": null,
-   "avg_sec": null,
-   "shares": null,
-   "subs": null,
-   "engaged": null
   },
   {
    "id": "ZfOASgXEtSE",
@@ -1469,6 +1469,24 @@
    "shares": 0,
    "subs": 0,
    "engaged": 13
+  },
+  {
+   "id": "LY5p6TDpErU",
+   "title": "India's Secret Files #35: Why India Paid Its Maharajas Until 1971",
+   "published": "2026-11-20T00:00:05Z",
+   "views": 38,
+   "likes": 2,
+   "comments": 2,
+   "seconds": 50,
+   "made_by": "bot",
+   "freshness": "evergreen",
+   "region": "india",
+   "type": "declassified",
+   "avg_pct": null,
+   "avg_sec": null,
+   "shares": null,
+   "subs": null,
+   "engaged": null
   },
   {
    "id": "Wrb75VfRPKI",
@@ -1741,24 +1759,6 @@
    "engaged": 7
   },
   {
-   "id": "LY5p6TDpErU",
-   "title": "India's Secret Files #35: Why India Paid Its Maharajas Until 1971",
-   "published": "2026-11-20T00:00:05Z",
-   "views": 20,
-   "likes": 2,
-   "comments": 2,
-   "seconds": 50,
-   "made_by": "bot",
-   "freshness": "evergreen",
-   "region": "india",
-   "type": "declassified",
-   "avg_pct": null,
-   "avg_sec": null,
-   "shares": null,
-   "subs": null,
-   "engaged": null
-  },
-  {
    "id": "t5Vj5xtEDOk",
    "title": "India's Secret Files #19: The RAW Officer Who Fled to America",
    "published": "2026-11-06T07:30:06Z",
@@ -1921,6 +1921,24 @@
    "engaged": 4
   },
   {
+   "id": "C_quS0b3PeE",
+   "title": "Seven Sisters: The Secret Oil Pact of 1928",
+   "published": "2026-11-12T07:30:39Z",
+   "views": 11,
+   "likes": 1,
+   "comments": 2,
+   "seconds": 51,
+   "made_by": "bot",
+   "freshness": "evergreen",
+   "region": "world",
+   "type": "declassified",
+   "avg_pct": 50.23,
+   "avg_sec": 25,
+   "shares": 0,
+   "subs": 0,
+   "engaged": 5
+  },
+  {
    "id": "ejQrkmWr72Y",
    "title": "Unsolved Files #12: Who built the virus that broke Iran's",
    "published": "2026-11-07T14:30:15Z",
@@ -1951,24 +1969,6 @@
    "region": "world",
    "type": "theory",
    "avg_pct": 49.94,
-   "avg_sec": 25,
-   "shares": 0,
-   "subs": 0,
-   "engaged": 5
-  },
-  {
-   "id": "C_quS0b3PeE",
-   "title": "Seven Sisters: The Secret Oil Pact of 1928",
-   "published": "2026-11-12T07:30:39Z",
-   "views": 9,
-   "likes": 1,
-   "comments": 2,
-   "seconds": 51,
-   "made_by": "bot",
-   "freshness": "evergreen",
-   "region": "world",
-   "type": "declassified",
-   "avg_pct": 50.23,
    "avg_sec": 25,
    "shares": 0,
    "subs": 0,
@@ -2047,6 +2047,24 @@
    "engaged": 4
   },
   {
+   "id": "iYv8GzfFO2I",
+   "title": "Big Sugar Paid Harvard to Blame Fat (1967)",
+   "published": "2026-11-19T14:30:30Z",
+   "views": 6,
+   "likes": 0,
+   "comments": 2,
+   "seconds": 53,
+   "made_by": "bot",
+   "freshness": "evergreen",
+   "region": "world",
+   "type": "declassified",
+   "avg_pct": null,
+   "avg_sec": null,
+   "shares": null,
+   "subs": null,
+   "engaged": null
+  },
+  {
    "id": "VXYVhYNkL7c",
    "title": "South Africa's State Capture: The Gupta Files",
    "published": "2026-11-10T00:00:10Z",
@@ -2065,13 +2083,13 @@
    "engaged": 3
   },
   {
-   "id": "iYv8GzfFO2I",
-   "title": "Big Sugar Paid Harvard to Blame Fat (1967)",
-   "published": "2026-11-19T14:30:30Z",
-   "views": 3,
-   "likes": 0,
+   "id": "bfHluNY0-Nw",
+   "title": "General Motors and the Leaded Petrol Cover-Up ☠️",
+   "published": "2026-11-21T00:00:12Z",
+   "views": 5,
+   "likes": 1,
    "comments": 1,
-   "seconds": 53,
+   "seconds": 55,
    "made_by": "bot",
    "freshness": "evergreen",
    "region": "world",
@@ -2391,17 +2409,19 @@
   ]
  ],
  "scheduled": {
-  "count": 1,
+  "count": 3,
   "times": [
-   "2026-11-21T00:00:00+00:00"
+   "2026-11-21T14:30:00+00:00",
+   "2026-11-22T00:00:00+00:00",
+   "2026-11-22T07:30:00+00:00"
   ]
  },
  "queue": {
   "total": 14,
   "trending": 0,
   "evergreen": 14,
-  "india": 8,
-  "world": 6,
+  "india": 7,
+  "world": 7,
   "declassified": 14,
   "theory": 0,
   "days_of_videos": 4.7
@@ -2459,8 +2479,16 @@
     "workflow": "Daily Short",
     "status": "in_progress",
     "result": null,
-    "started": "2026-11-20T22:18:36Z",
+    "started": "2026-11-21T08:30:39Z",
     "minutes": null,
+    "event": "schedule"
+   },
+   {
+    "workflow": "Daily Short",
+    "status": "completed",
+    "result": "success",
+    "started": "2026-11-20T22:18:36Z",
+    "minutes": 2.4,
     "event": "schedule"
    },
    {
@@ -2765,14 +2793,6 @@
     "result": "success",
     "started": "2026-11-16T10:01:18Z",
     "minutes": 0.2,
-    "event": "schedule"
-   },
-   {
-    "workflow": "Daily Short",
-    "status": "completed",
-    "result": "success",
-    "started": "2026-11-16T08:13:58Z",
-    "minutes": 19.4,
     "event": "schedule"
    }
   ]
