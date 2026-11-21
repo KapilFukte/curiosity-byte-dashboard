@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T08:57:29+00:00",
+ "generated_at": "2026-11-21T12:34:33+00:00",
  "channel": {
   "id": "UCIqsSPGCNSqpGZ38gzoWVug",
   "title": "CURIOSITY-BYTE ",
@@ -913,10 +913,28 @@
    "engaged": 42
   },
   {
+   "id": "A4HVbQzf_MU",
+   "title": "Diego Garcia: The Base Built by Emptying Islands",
+   "published": "2026-11-20T07:30:28Z",
+   "views": 101,
+   "likes": 3,
+   "comments": 1,
+   "seconds": 53,
+   "made_by": "bot",
+   "freshness": "evergreen",
+   "region": "world",
+   "type": "declassified",
+   "avg_pct": null,
+   "avg_sec": null,
+   "shares": null,
+   "subs": null,
+   "engaged": null
+  },
+  {
    "id": "S2pBw9rChzc",
    "title": "Lucky Strike's Torches of Freedom Stunt (1929)",
    "published": "2026-11-18T07:30:22Z",
-   "views": 99,
+   "views": 100,
    "likes": 2,
    "comments": 1,
    "seconds": 49,
@@ -965,24 +983,6 @@
    "shares": 0,
    "subs": 0,
    "engaged": 49
-  },
-  {
-   "id": "A4HVbQzf_MU",
-   "title": "Diego Garcia: The Base Built by Emptying Islands",
-   "published": "2026-11-20T07:30:28Z",
-   "views": 87,
-   "likes": 3,
-   "comments": 1,
-   "seconds": 53,
-   "made_by": "bot",
-   "freshness": "evergreen",
-   "region": "world",
-   "type": "declassified",
-   "avg_pct": null,
-   "avg_sec": null,
-   "shares": null,
-   "subs": null,
-   "engaged": null
   },
   {
    "id": "KDYKXopn0uw",
@@ -1165,6 +1165,24 @@
    "engaged": 38
   },
   {
+   "id": "K74DJP33Vlg",
+   "title": "The CIA's Secret Mission to Steal a Soviet Submarine",
+   "published": "2026-11-19T07:30:01Z",
+   "views": 65,
+   "likes": 1,
+   "comments": 1,
+   "seconds": 52,
+   "made_by": "bot",
+   "freshness": "evergreen",
+   "region": "world",
+   "type": "declassified",
+   "avg_pct": 79.06,
+   "avg_sec": 41,
+   "shares": 0,
+   "subs": 0,
+   "engaged": 22
+  },
+  {
    "id": "Y-oFmyi2Alc",
    "title": "Unsolved Files #1: Were UFOs Really Spy Planes? (Theory)",
    "published": "2026-10-17T14:30:32Z",
@@ -1183,22 +1201,22 @@
    "engaged": 32
   },
   {
-   "id": "K74DJP33Vlg",
-   "title": "The CIA's Secret Mission to Steal a Soviet Submarine",
-   "published": "2026-11-19T07:30:01Z",
-   "views": 63,
-   "likes": 1,
+   "id": "OPmDfQLhTZw",
+   "title": "How India Took Air India From Tata and Sold It Back",
+   "published": "2026-11-20T14:30:39Z",
+   "views": 64,
+   "likes": 2,
    "comments": 1,
-   "seconds": 52,
+   "seconds": 53,
    "made_by": "bot",
    "freshness": "evergreen",
-   "region": "world",
+   "region": "india",
    "type": "declassified",
-   "avg_pct": 79.06,
-   "avg_sec": 41,
-   "shares": 0,
-   "subs": 0,
-   "engaged": 22
+   "avg_pct": null,
+   "avg_sec": null,
+   "shares": null,
+   "subs": null,
+   "engaged": null
   },
   {
    "id": "DbuxsWiEA5o",
@@ -1237,24 +1255,6 @@
    "engaged": 34
   },
   {
-   "id": "OPmDfQLhTZw",
-   "title": "How India Took Air India From Tata and Sold It Back",
-   "published": "2026-11-20T14:30:39Z",
-   "views": 60,
-   "likes": 2,
-   "comments": 1,
-   "seconds": 53,
-   "made_by": "bot",
-   "freshness": "evergreen",
-   "region": "india",
-   "type": "declassified",
-   "avg_pct": null,
-   "avg_sec": null,
-   "shares": null,
-   "subs": null,
-   "engaged": null
-  },
-  {
    "id": "6ucLg2eubKQ",
    "title": "Unsolved Files #9: Was Marilyn Monroe Silenced? (Theory)",
    "published": "2026-11-07T00:00:02Z",
@@ -1273,6 +1273,24 @@
    "engaged": 25
   },
   {
+   "id": "hvw4LyMAJ_U",
+   "title": "China's Tech Export Curbs: The New Secret Weapon ☀️",
+   "published": "2026-10-23T07:30:31Z",
+   "views": 55,
+   "likes": 4,
+   "comments": 2,
+   "seconds": 48,
+   "made_by": "bot",
+   "freshness": "trending",
+   "region": "world",
+   "type": "declassified",
+   "avg_pct": 66.21,
+   "avg_sec": 31,
+   "shares": 0,
+   "subs": 0,
+   "engaged": 32
+  },
+  {
    "id": "ZHteyFlwprY",
    "title": "Operation Mincemeat: The Dead Man Who Fooled Hitler 🧳",
    "published": "2026-11-02T14:30:32Z",
@@ -1289,24 +1307,6 @@
    "shares": 0,
    "subs": 0,
    "engaged": 15
-  },
-  {
-   "id": "hvw4LyMAJ_U",
-   "title": "China's Tech Export Curbs: The New Secret Weapon ☀️",
-   "published": "2026-10-23T07:30:31Z",
-   "views": 54,
-   "likes": 4,
-   "comments": 2,
-   "seconds": 48,
-   "made_by": "bot",
-   "freshness": "trending",
-   "region": "world",
-   "type": "declassified",
-   "avg_pct": 66.21,
-   "avg_sec": 31,
-   "shares": 0,
-   "subs": 0,
-   "engaged": 32
   },
   {
    "id": "XKt_kZKcCng",
@@ -1399,6 +1399,24 @@
    "engaged": 15
   },
   {
+   "id": "LY5p6TDpErU",
+   "title": "India's Secret Files #35: Why India Paid Its Maharajas Until 1971",
+   "published": "2026-11-20T00:00:05Z",
+   "views": 44,
+   "likes": 2,
+   "comments": 2,
+   "seconds": 50,
+   "made_by": "bot",
+   "freshness": "evergreen",
+   "region": "india",
+   "type": "declassified",
+   "avg_pct": null,
+   "avg_sec": null,
+   "shares": null,
+   "subs": null,
+   "engaged": null
+  },
+  {
    "id": "1CrqC0ngvLM",
    "title": "India's Secret Files #8: Netaji and Gumnami Baba (Theory)",
    "published": "2026-10-26T14:30:38Z",
@@ -1469,24 +1487,6 @@
    "shares": 0,
    "subs": 0,
    "engaged": 13
-  },
-  {
-   "id": "LY5p6TDpErU",
-   "title": "India's Secret Files #35: Why India Paid Its Maharajas Until 1971",
-   "published": "2026-11-20T00:00:05Z",
-   "views": 38,
-   "likes": 2,
-   "comments": 2,
-   "seconds": 50,
-   "made_by": "bot",
-   "freshness": "evergreen",
-   "region": "india",
-   "type": "declassified",
-   "avg_pct": null,
-   "avg_sec": null,
-   "shares": null,
-   "subs": null,
-   "engaged": null
   },
   {
    "id": "Wrb75VfRPKI",
@@ -1867,6 +1867,24 @@
    "engaged": 6
   },
   {
+   "id": "KVGX-aV2TjE",
+   "title": "The Nizam's Lost Million Pounds That Became £35M",
+   "published": "2026-11-19T00:00:21Z",
+   "views": 12,
+   "likes": 1,
+   "comments": 1,
+   "seconds": 51,
+   "made_by": "bot",
+   "freshness": "evergreen",
+   "region": "india",
+   "type": "declassified",
+   "avg_pct": 105.66,
+   "avg_sec": 53,
+   "shares": 0,
+   "subs": 0,
+   "engaged": 4
+  },
+  {
    "id": "plQxdq_gebA",
    "title": "Operation Rubicon: The CIA secretly owned a Swiss codemaker.",
    "published": "2026-11-09T00:00:38Z",
@@ -1901,24 +1919,6 @@
    "shares": 0,
    "subs": 0,
    "engaged": 7
-  },
-  {
-   "id": "KVGX-aV2TjE",
-   "title": "The Nizam's Lost Million Pounds That Became £35M",
-   "published": "2026-11-19T00:00:21Z",
-   "views": 11,
-   "likes": 1,
-   "comments": 1,
-   "seconds": 51,
-   "made_by": "bot",
-   "freshness": "evergreen",
-   "region": "india",
-   "type": "declassified",
-   "avg_pct": 105.66,
-   "avg_sec": 53,
-   "shares": 0,
-   "subs": 0,
-   "engaged": 4
   },
   {
    "id": "C_quS0b3PeE",
@@ -2476,11 +2476,35 @@
   ],
   "runs": [
    {
-    "workflow": "Daily Short",
+    "workflow": "Channel stats",
     "status": "in_progress",
     "result": null,
-    "started": "2026-11-21T08:30:39Z",
+    "started": "2026-11-21T12:34:08Z",
     "minutes": null,
+    "event": "schedule"
+   },
+   {
+    "workflow": "Upload owner videos",
+    "status": "completed",
+    "result": "success",
+    "started": "2026-11-21T11:28:36Z",
+    "minutes": 1.1,
+    "event": "schedule"
+   },
+   {
+    "workflow": "Backup script writer",
+    "status": "completed",
+    "result": "success",
+    "started": "2026-11-21T10:02:39Z",
+    "minutes": 0.1,
+    "event": "schedule"
+   },
+   {
+    "workflow": "Daily Short",
+    "status": "completed",
+    "result": "success",
+    "started": "2026-11-21T08:30:39Z",
+    "minutes": 27.0,
     "event": "schedule"
    },
    {
@@ -2769,30 +2793,6 @@
     "result": "success",
     "started": "2026-11-16T13:07:32Z",
     "minutes": 1.2,
-    "event": "schedule"
-   },
-   {
-    "workflow": "Channel stats",
-    "status": "completed",
-    "result": "success",
-    "started": "2026-11-16T12:39:54Z",
-    "minutes": 0.4,
-    "event": "schedule"
-   },
-   {
-    "workflow": "Upload owner videos",
-    "status": "completed",
-    "result": "success",
-    "started": "2026-11-16T11:48:28Z",
-    "minutes": 0.8,
-    "event": "schedule"
-   },
-   {
-    "workflow": "Backup script writer",
-    "status": "completed",
-    "result": "success",
-    "started": "2026-11-16T10:01:18Z",
-    "minutes": 0.2,
     "event": "schedule"
    }
   ]
