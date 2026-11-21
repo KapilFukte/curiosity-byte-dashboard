@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T16:19:51+00:00",
+ "generated_at": "2026-11-21T21:01:14+00:00",
  "channel": {
   "id": "UCIqsSPGCNSqpGZ38gzoWVug",
   "title": "CURIOSITY-BYTE ",
@@ -106,7 +106,7 @@
    "id": "QQcIMQFQSwc",
    "title": "India's Secret Files #3: Drones Drop RDX Into Rajasthan 💣",
    "published": "2026-10-19T16:00:50Z",
-   "views": 1135,
+   "views": 1136,
    "likes": 12,
    "comments": 2,
    "seconds": 62,
@@ -178,7 +178,7 @@
    "id": "Rw1aI1bgxhw",
    "title": "Emergency 1975: India's 21 Dark Months 🇮🇳 #shorts",
    "published": "2026-10-15T07:10:43Z",
-   "views": 982,
+   "views": 983,
    "likes": 16,
    "comments": 1,
    "seconds": 69,
@@ -186,11 +186,11 @@
    "freshness": "evergreen",
    "region": "india",
    "type": "declassified",
-   "avg_pct": 69.04,
+   "avg_pct": 69.06,
    "avg_sec": 47,
    "shares": 1,
    "subs": 3,
-   "engaged": 545
+   "engaged": 546
   },
   {
    "id": "mazbzvNgIgA",
@@ -312,11 +312,11 @@
    "freshness": "evergreen",
    "region": "world",
    "type": "declassified",
-   "avg_pct": 68.69,
+   "avg_pct": 68.76,
    "avg_sec": 36,
    "shares": 1,
    "subs": 0,
-   "engaged": 271
+   "engaged": 272
   },
   {
    "id": "DglyqKZ_y_g",
@@ -402,11 +402,11 @@
    "freshness": "evergreen",
    "region": "india",
    "type": "declassified",
-   "avg_pct": 74.56,
+   "avg_pct": 74.2,
    "avg_sec": 38,
    "shares": 0,
    "subs": 0,
-   "engaged": 171
+   "engaged": 172
   },
   {
    "id": "9teIQneHZWk",
@@ -456,17 +456,17 @@
    "freshness": "evergreen",
    "region": "india",
    "type": "declassified",
-   "avg_pct": 50.38,
+   "avg_pct": 50.09,
    "avg_sec": 28,
    "shares": 0,
    "subs": 0,
-   "engaged": 168
+   "engaged": 169
   },
   {
    "id": "IcDAdgG7HeE",
    "title": "India's Secret Files #20: Purulia Arms Drop: AK-47s From the Sky",
    "published": "2026-11-07T07:30:29Z",
-   "views": 257,
+   "views": 258,
    "likes": 3,
    "comments": 2,
    "seconds": 54,
@@ -528,11 +528,11 @@
    "freshness": "trending",
    "region": "world",
    "type": "declassified",
-   "avg_pct": 40.29,
+   "avg_pct": 40.75,
    "avg_sec": 22,
    "shares": 0,
    "subs": 0,
-   "engaged": 129
+   "engaged": 130
   },
   {
    "id": "s55A7_ExKOU",
@@ -664,7 +664,7 @@
    "id": "kNnSz6K9Cgk",
    "title": "Was Shastri Poisoned in Tashkent? (Theory)",
    "published": "2026-10-25T07:30:34Z",
-   "views": 180,
+   "views": 182,
    "likes": 4,
    "comments": 2,
    "seconds": 54,
@@ -736,7 +736,7 @@
    "id": "GjbtY_Fq6qw",
    "title": "Big Tobacco's Secret Memo: Doubt Is Our Product",
    "published": "2026-11-14T07:30:24Z",
-   "views": 147,
+   "views": 148,
    "likes": 1,
    "comments": 1,
    "seconds": 48,
@@ -844,7 +844,7 @@
    "id": "NFcYfGzK-_4",
    "title": "ISRO's Rocket Scientist Jailed for a Fake Spy Case",
    "published": "2026-10-27T23:00:26Z",
-   "views": 110,
+   "views": 111,
    "likes": 3,
    "comments": 2,
    "seconds": 53,
@@ -877,6 +877,24 @@
    "engaged": 58
   },
   {
+   "id": "A4HVbQzf_MU",
+   "title": "Diego Garcia: The Base Built by Emptying Islands",
+   "published": "2026-11-20T07:30:28Z",
+   "views": 107,
+   "likes": 3,
+   "comments": 1,
+   "seconds": 53,
+   "made_by": "bot",
+   "freshness": "evergreen",
+   "region": "world",
+   "type": "declassified",
+   "avg_pct": 69.63,
+   "avg_sec": 36,
+   "shares": 0,
+   "subs": 0,
+   "engaged": 5
+  },
+  {
    "id": "Pzh6mDmUREo",
    "title": "Snowden: How the NSA Watched Millions 👁️",
    "published": "2026-10-30T14:30:06Z",
@@ -893,24 +911,6 @@
    "shares": 0,
    "subs": 0,
    "engaged": 52
-  },
-  {
-   "id": "A4HVbQzf_MU",
-   "title": "Diego Garcia: The Base Built by Emptying Islands",
-   "published": "2026-11-20T07:30:28Z",
-   "views": 105,
-   "likes": 3,
-   "comments": 1,
-   "seconds": 53,
-   "made_by": "bot",
-   "freshness": "evergreen",
-   "region": "world",
-   "type": "declassified",
-   "avg_pct": null,
-   "avg_sec": null,
-   "shares": null,
-   "subs": null,
-   "engaged": null
   },
   {
    "id": "NYkm5BG7jEw",
@@ -934,7 +934,7 @@
    "id": "S2pBw9rChzc",
    "title": "Lucky Strike's Torches of Freedom Stunt (1929)",
    "published": "2026-11-18T07:30:22Z",
-   "views": 101,
+   "views": 104,
    "likes": 2,
    "comments": 1,
    "seconds": 49,
@@ -942,11 +942,11 @@
    "freshness": "evergreen",
    "region": "world",
    "type": "declassified",
-   "avg_pct": 41.58,
-   "avg_sec": 20,
+   "avg_pct": 40.52,
+   "avg_sec": 19,
    "shares": 0,
    "subs": 0,
-   "engaged": 25
+   "engaged": 27
   },
   {
    "id": "Vq0ecUo2-tQ",
@@ -1140,35 +1140,17 @@
    "freshness": "evergreen",
    "region": "india",
    "type": "declassified",
-   "avg_pct": 62.28,
-   "avg_sec": 33,
+   "avg_pct": 60.8,
+   "avg_sec": 32,
    "shares": 0,
    "subs": 0,
-   "engaged": 40
-  },
-  {
-   "id": "MhA_l8DnRVQ",
-   "title": "ITT, the CIA and a $1 Million Offer on Chile",
-   "published": "2026-11-15T14:30:25Z",
-   "views": 67,
-   "likes": 2,
-   "comments": 1,
-   "seconds": 58,
-   "made_by": "bot",
-   "freshness": "evergreen",
-   "region": "world",
-   "type": "declassified",
-   "avg_pct": 49.62,
-   "avg_sec": 28,
-   "shares": 0,
-   "subs": 0,
-   "engaged": 38
+   "engaged": 41
   },
   {
    "id": "OPmDfQLhTZw",
    "title": "How India Took Air India From Tata and Sold It Back",
    "published": "2026-11-20T14:30:39Z",
-   "views": 66,
+   "views": 71,
    "likes": 2,
    "comments": 1,
    "seconds": 53,
@@ -1183,6 +1165,24 @@
    "engaged": null
   },
   {
+   "id": "MhA_l8DnRVQ",
+   "title": "ITT, the CIA and a $1 Million Offer on Chile",
+   "published": "2026-11-15T14:30:25Z",
+   "views": 67,
+   "likes": 2,
+   "comments": 1,
+   "seconds": 58,
+   "made_by": "bot",
+   "freshness": "evergreen",
+   "region": "world",
+   "type": "declassified",
+   "avg_pct": 50.4,
+   "avg_sec": 29,
+   "shares": 0,
+   "subs": 0,
+   "engaged": 39
+  },
+  {
    "id": "K74DJP33Vlg",
    "title": "The CIA's Secret Mission to Steal a Soviet Submarine",
    "published": "2026-11-19T07:30:01Z",
@@ -1194,11 +1194,11 @@
    "freshness": "evergreen",
    "region": "world",
    "type": "declassified",
-   "avg_pct": 79.06,
-   "avg_sec": 41,
+   "avg_pct": 105.76999999999998,
+   "avg_sec": 55,
    "shares": 0,
    "subs": 0,
-   "engaged": 22
+   "engaged": 28
   },
   {
    "id": "Y-oFmyi2Alc",
@@ -1212,17 +1212,17 @@
    "freshness": "trending",
    "region": "world",
    "type": "theory",
-   "avg_pct": 63.82,
-   "avg_sec": 35,
+   "avg_pct": 61.89,
+   "avg_sec": 34,
    "shares": 1,
    "subs": 0,
-   "engaged": 32
+   "engaged": 33
   },
   {
    "id": "DbuxsWiEA5o",
    "title": "The Kohinoor and the Child Maharaja of Punjab",
    "published": "2026-11-17T07:30:02Z",
-   "views": 63,
+   "views": 64,
    "likes": 2,
    "comments": 1,
    "seconds": 47,
@@ -1284,11 +1284,11 @@
    "freshness": "trending",
    "region": "world",
    "type": "declassified",
-   "avg_pct": 66.21,
-   "avg_sec": 31,
+   "avg_pct": 64.21,
+   "avg_sec": 30,
    "shares": 0,
    "subs": 0,
-   "engaged": 32
+   "engaged": 33
   },
   {
    "id": "ZHteyFlwprY",
@@ -1320,11 +1320,29 @@
    "freshness": "evergreen",
    "region": "india",
    "type": "declassified",
-   "avg_pct": 56.49000000000001,
-   "avg_sec": 30,
+   "avg_pct": 58.31000000000001,
+   "avg_sec": 31,
    "shares": 0,
    "subs": 0,
-   "engaged": 23
+   "engaged": 24
+  },
+  {
+   "id": "LY5p6TDpErU",
+   "title": "India's Secret Files #35: Why India Paid Its Maharajas Until 1971",
+   "published": "2026-11-20T00:00:05Z",
+   "views": 50,
+   "likes": 2,
+   "comments": 2,
+   "seconds": 50,
+   "made_by": "bot",
+   "freshness": "evergreen",
+   "region": "india",
+   "type": "declassified",
+   "avg_pct": 46.07,
+   "avg_sec": 23,
+   "shares": 0,
+   "subs": 0,
+   "engaged": 4
   },
   {
    "id": "ZfOASgXEtSE",
@@ -1361,24 +1379,6 @@
    "shares": 0,
    "subs": 0,
    "engaged": 16
-  },
-  {
-   "id": "LY5p6TDpErU",
-   "title": "India's Secret Files #35: Why India Paid Its Maharajas Until 1971",
-   "published": "2026-11-20T00:00:05Z",
-   "views": 46,
-   "likes": 2,
-   "comments": 2,
-   "seconds": 50,
-   "made_by": "bot",
-   "freshness": "evergreen",
-   "region": "india",
-   "type": "declassified",
-   "avg_pct": null,
-   "avg_sec": null,
-   "shares": null,
-   "subs": null,
-   "engaged": null
   },
   {
    "id": "ADRx6dwJnzY",
@@ -1489,6 +1489,24 @@
    "engaged": 13
   },
   {
+   "id": "hnUYKfy2OlU",
+   "title": "Enron's Dabhol Power Deal That Shook India",
+   "published": "2026-11-15T07:30:14Z",
+   "views": 38,
+   "likes": 1,
+   "comments": 1,
+   "seconds": 56,
+   "made_by": "bot",
+   "freshness": "evergreen",
+   "region": "india",
+   "type": "declassified",
+   "avg_pct": 55.97,
+   "avg_sec": 31,
+   "shares": 0,
+   "subs": 0,
+   "engaged": 22
+  },
+  {
    "id": "Wrb75VfRPKI",
    "title": "Black Sea Drone Attacks: A New Gulf of Tonkin? ⚓",
    "published": "2026-10-22T14:30:05Z",
@@ -1507,28 +1525,10 @@
    "engaged": 19
   },
   {
-   "id": "hnUYKfy2OlU",
-   "title": "Enron's Dabhol Power Deal That Shook India",
-   "published": "2026-11-15T07:30:14Z",
-   "views": 37,
-   "likes": 1,
-   "comments": 1,
-   "seconds": 56,
-   "made_by": "bot",
-   "freshness": "evergreen",
-   "region": "india",
-   "type": "declassified",
-   "avg_pct": 53.290000000000006,
-   "avg_sec": 29,
-   "shares": 0,
-   "subs": 0,
-   "engaged": 21
-  },
-  {
    "id": "RLykB1iE754",
    "title": "Lockheed Bribes: The Scandal That Toppled Tanaka",
    "published": "2026-11-13T07:30:12Z",
-   "views": 36,
+   "views": 37,
    "likes": 0,
    "comments": 1,
    "seconds": 53,
@@ -1752,11 +1752,11 @@
    "freshness": "evergreen",
    "region": "world",
    "type": "declassified",
-   "avg_pct": 63.31,
-   "avg_sec": 25,
+   "avg_pct": 60.57,
+   "avg_sec": 24,
    "shares": 0,
    "subs": 0,
-   "engaged": 7
+   "engaged": 9
   },
   {
    "id": "t5Vj5xtEDOk",
@@ -1831,6 +1831,24 @@
    "engaged": 5
   },
   {
+   "id": "KVGX-aV2TjE",
+   "title": "The Nizam's Lost Million Pounds That Became £35M",
+   "published": "2026-11-19T00:00:21Z",
+   "views": 15,
+   "likes": 1,
+   "comments": 1,
+   "seconds": 51,
+   "made_by": "bot",
+   "freshness": "evergreen",
+   "region": "india",
+   "type": "declassified",
+   "avg_pct": 105.66,
+   "avg_sec": 53,
+   "shares": 0,
+   "subs": 0,
+   "engaged": 4
+  },
+  {
    "id": "0C7KZ3ItGdg",
    "title": "Unsolved Files #11: Was the UN Chief's Plane Shot Down? (Theory)",
    "published": "2026-11-08T07:30:20Z",
@@ -1865,24 +1883,6 @@
    "shares": 0,
    "subs": 0,
    "engaged": 6
-  },
-  {
-   "id": "KVGX-aV2TjE",
-   "title": "The Nizam's Lost Million Pounds That Became £35M",
-   "published": "2026-11-19T00:00:21Z",
-   "views": 12,
-   "likes": 1,
-   "comments": 1,
-   "seconds": 51,
-   "made_by": "bot",
-   "freshness": "evergreen",
-   "region": "india",
-   "type": "declassified",
-   "avg_pct": 105.66,
-   "avg_sec": 53,
-   "shares": 0,
-   "subs": 0,
-   "engaged": 4
   },
   {
    "id": "plQxdq_gebA",
@@ -1932,11 +1932,11 @@
    "freshness": "evergreen",
    "region": "world",
    "type": "declassified",
-   "avg_pct": 50.23,
-   "avg_sec": 25,
+   "avg_pct": 43.17,
+   "avg_sec": 22,
    "shares": 0,
    "subs": 0,
-   "engaged": 5
+   "engaged": 6
   },
   {
    "id": "ejQrkmWr72Y",
@@ -2058,11 +2058,11 @@
    "freshness": "evergreen",
    "region": "world",
    "type": "declassified",
-   "avg_pct": null,
-   "avg_sec": null,
-   "shares": null,
-   "subs": null,
-   "engaged": null
+   "avg_pct": 0,
+   "avg_sec": 0,
+   "shares": 0,
+   "subs": 0,
+   "engaged": 0
   },
   {
    "id": "VXYVhYNkL7c",
@@ -2083,15 +2083,15 @@
    "engaged": 3
   },
   {
-   "id": "bfHluNY0-Nw",
-   "title": "General Motors and the Leaded Petrol Cover-Up ☠️",
-   "published": "2026-11-21T00:00:12Z",
+   "id": "y6gUy9B5Nyw",
+   "title": "Iraq's Oil Smuggling Crackdown: Who Really Profits? 🛢️",
+   "published": "2026-11-21T14:30:31Z",
    "views": 5,
    "likes": 1,
    "comments": 1,
-   "seconds": 55,
+   "seconds": 53,
    "made_by": "bot",
-   "freshness": "evergreen",
+   "freshness": "trending",
    "region": "world",
    "type": "declassified",
    "avg_pct": null,
@@ -2101,15 +2101,15 @@
    "engaged": null
   },
   {
-   "id": "y6gUy9B5Nyw",
-   "title": "Iraq's Oil Smuggling Crackdown: Who Really Profits? 🛢️",
-   "published": "2026-11-21T14:30:31Z",
-   "views": 1,
+   "id": "bfHluNY0-Nw",
+   "title": "General Motors and the Leaded Petrol Cover-Up ☠️",
+   "published": "2026-11-21T00:00:12Z",
+   "views": 2,
    "likes": 1,
-   "comments": 0,
-   "seconds": 53,
+   "comments": 1,
+   "seconds": 55,
    "made_by": "bot",
-   "freshness": "trending",
+   "freshness": "evergreen",
    "region": "world",
    "type": "declassified",
    "avg_pct": null,
@@ -2378,16 +2378,23 @@
    "minutes": 48,
    "subs_gained": 0,
    "subs_lost": 0
+  },
+  {
+   "date": "2026-11-19",
+   "views": 89,
+   "minutes": 24,
+   "subs_gained": 0,
+   "subs_lost": 0
   }
  ],
  "traffic": [
   [
    "Shorts feed (swiping)",
-   22392
+   22423
   ],
   [
    "YouTube search",
-   2615
+   2671
   ],
   [
    "Channel page",
@@ -2399,7 +2406,7 @@
   ],
   [
    "Subscribers",
-   174
+   175
   ],
   [
    "Outside links",
@@ -2419,7 +2426,7 @@
   ],
   [
    "Direct / other",
-   4
+   5
   ],
   [
    "Playlists",
@@ -2496,8 +2503,24 @@
     "workflow": "Daily Short",
     "status": "in_progress",
     "result": null,
-    "started": "2026-11-21T16:18:30Z",
+    "started": "2026-11-21T20:59:52Z",
     "minutes": null,
+    "event": "schedule"
+   },
+   {
+    "workflow": "Upload owner videos",
+    "status": "completed",
+    "result": "success",
+    "started": "2026-11-21T18:08:00Z",
+    "minutes": 0.9,
+    "event": "schedule"
+   },
+   {
+    "workflow": "Daily Short",
+    "status": "completed",
+    "result": "success",
+    "started": "2026-11-21T16:18:30Z",
+    "minutes": 1.5,
     "event": "schedule"
    },
    {
@@ -2794,22 +2817,6 @@
     "result": "success",
     "started": "2026-11-16T23:48:01Z",
     "minutes": 1.5,
-    "event": "schedule"
-   },
-   {
-    "workflow": "Upload owner videos",
-    "status": "completed",
-    "result": "success",
-    "started": "2026-11-16T21:10:29Z",
-    "minutes": 0.7,
-    "event": "schedule"
-   },
-   {
-    "workflow": "Daily Short",
-    "status": "completed",
-    "result": "success",
-    "started": "2026-11-16T18:46:23Z",
-    "minutes": 13.0,
     "event": "schedule"
    }
   ]
