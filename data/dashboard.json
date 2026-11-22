@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T12:31:16+00:00",
+ "generated_at": "2026-11-22T16:33:25+00:00",
  "channel": {
   "id": "UCIqsSPGCNSqpGZ38gzoWVug",
   "title": "CURIOSITY-BYTE ",
@@ -8,7 +8,7 @@
   "thumbnail": "https://yt3.ggpht.com/YRHdMXed5WcK0RPcMupr8g0TYDuQjTPXRytKM1iRa9yOfyABzCAJnyEI8SbiPxKf2_kyQAkkuQ=s240-c-k-c0x00ffffff-no-rj",
   "subscribers": 33,
   "total_views": 25912,
-  "video_count": 119
+  "video_count": 120
  },
  "first_upload": "2026-10-13T18:10:17Z",
  "videos": [
@@ -805,6 +805,24 @@
    "engaged": 62
   },
   {
+   "id": "S2pBw9rChzc",
+   "title": "Lucky Strike's Torches of Freedom Stunt (1929)",
+   "published": "2026-11-18T07:30:22Z",
+   "views": 120,
+   "likes": 2,
+   "comments": 1,
+   "seconds": 49,
+   "made_by": "bot",
+   "freshness": "evergreen",
+   "region": "world",
+   "type": "declassified",
+   "avg_pct": 41.75,
+   "avg_sec": 20,
+   "shares": 0,
+   "subs": 0,
+   "engaged": 27
+  },
+  {
    "id": "mRNU_-510GI",
    "title": "Russia's 'Exchange Pool': Hostage Diplomacy Explained 🔒",
    "published": "2026-10-18T07:30:19Z",
@@ -823,22 +841,22 @@
    "engaged": 78
   },
   {
-   "id": "S2pBw9rChzc",
-   "title": "Lucky Strike's Torches of Freedom Stunt (1929)",
-   "published": "2026-11-18T07:30:22Z",
-   "views": 117,
+   "id": "vP1z-kbKQEM",
+   "title": "Why India Seized 14 Banks in 1969 💰",
+   "published": "2026-11-22T07:30:16Z",
+   "views": 115,
    "likes": 2,
    "comments": 1,
-   "seconds": 49,
+   "seconds": 52,
    "made_by": "bot",
    "freshness": "evergreen",
-   "region": "world",
+   "region": "india",
    "type": "declassified",
-   "avg_pct": 41.75,
-   "avg_sec": 20,
-   "shares": 0,
-   "subs": 0,
-   "engaged": 27
+   "avg_pct": null,
+   "avg_sec": null,
+   "shares": null,
+   "subs": null,
+   "engaged": null
   },
   {
    "id": "NFcYfGzK-_4",
@@ -985,13 +1003,13 @@
    "engaged": 49
   },
   {
-   "id": "vP1z-kbKQEM",
-   "title": "Why India Seized 14 Banks in 1969 💰",
-   "published": "2026-11-22T07:30:16Z",
-   "views": 90,
-   "likes": 1,
+   "id": "OPmDfQLhTZw",
+   "title": "How India Took Air India From Tata and Sold It Back",
+   "published": "2026-11-20T14:30:39Z",
+   "views": 87,
+   "likes": 3,
    "comments": 1,
-   "seconds": 52,
+   "seconds": 53,
    "made_by": "bot",
    "freshness": "evergreen",
    "region": "india",
@@ -1055,24 +1073,6 @@
    "shares": 0,
    "subs": 1,
    "engaged": 50
-  },
-  {
-   "id": "OPmDfQLhTZw",
-   "title": "How India Took Air India From Tata and Sold It Back",
-   "published": "2026-11-20T14:30:39Z",
-   "views": 84,
-   "likes": 3,
-   "comments": 1,
-   "seconds": 53,
-   "made_by": "bot",
-   "freshness": "evergreen",
-   "region": "india",
-   "type": "declassified",
-   "avg_pct": null,
-   "avg_sec": null,
-   "shares": null,
-   "subs": null,
-   "engaged": null
   },
   {
    "id": "Af83Z2XIbTs",
@@ -2119,6 +2119,24 @@
    "engaged": 3
   },
   {
+   "id": "VrKKS5Hzmvs",
+   "title": "Trump, Xi, Putin: The Nuclear Hotline Born in 1963 ☢️",
+   "published": "2026-11-22T14:30:07Z",
+   "views": 5,
+   "likes": 1,
+   "comments": 1,
+   "seconds": 58,
+   "made_by": "bot",
+   "freshness": "trending",
+   "region": "world",
+   "type": "declassified",
+   "avg_pct": null,
+   "avg_sec": null,
+   "shares": null,
+   "subs": null,
+   "engaged": null
+  },
+  {
    "id": "LBFBo7foTqI",
    "title": "Nehru's Son-in-Law Exposed India's First Big Scam 💰",
    "published": "2026-11-22T00:00:26Z",
@@ -2470,9 +2488,8 @@
   ]
  ],
  "scheduled": {
-  "count": 3,
+  "count": 2,
   "times": [
-   "2026-11-22T14:30:00+00:00",
    "2026-11-23T00:00:00+00:00",
    "2026-11-23T07:30:00+00:00"
   ]
@@ -2537,11 +2554,27 @@
   ],
   "runs": [
    {
-    "workflow": "Channel stats",
+    "workflow": "Daily Short",
     "status": "in_progress",
     "result": null,
-    "started": "2026-11-22T12:30:53Z",
+    "started": "2026-11-22T16:31:44Z",
     "minutes": null,
+    "event": "schedule"
+   },
+   {
+    "workflow": "Weekly viral analysis",
+    "status": "completed",
+    "result": "success",
+    "started": "2026-11-22T16:17:19Z",
+    "minutes": 0.4,
+    "event": "schedule"
+   },
+   {
+    "workflow": "Channel stats",
+    "status": "completed",
+    "result": "success",
+    "started": "2026-11-22T12:30:53Z",
+    "minutes": 0.6,
     "event": "schedule"
    },
    {
@@ -2838,22 +2871,6 @@
     "result": "success",
     "started": "2026-11-17T19:58:11Z",
     "minutes": 1.9,
-    "event": "schedule"
-   },
-   {
-    "workflow": "Daily Short",
-    "status": "completed",
-    "result": "success",
-    "started": "2026-11-17T17:45:25Z",
-    "minutes": 11.7,
-    "event": "schedule"
-   },
-   {
-    "workflow": "Channel stats",
-    "status": "completed",
-    "result": "success",
-    "started": "2026-11-17T13:15:39Z",
-    "minutes": 0.4,
     "event": "schedule"
    }
   ]
