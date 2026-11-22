@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T21:01:14+00:00",
+ "generated_at": "2026-11-22T08:59:34+00:00",
  "channel": {
   "id": "UCIqsSPGCNSqpGZ38gzoWVug",
   "title": "CURIOSITY-BYTE ",
@@ -7,8 +7,8 @@
   "created": "2024-09-01T07:38:30.449317Z",
   "thumbnail": "https://yt3.ggpht.com/YRHdMXed5WcK0RPcMupr8g0TYDuQjTPXRytKM1iRa9yOfyABzCAJnyEI8SbiPxKf2_kyQAkkuQ=s240-c-k-c0x00ffffff-no-rj",
   "subscribers": 33,
-  "total_views": 25879,
-  "video_count": 117
+  "total_views": 25912,
+  "video_count": 119
  },
  "first_upload": "2026-10-13T18:10:17Z",
  "videos": [
@@ -142,7 +142,7 @@
    "id": "2UCUBKXTF8I",
    "title": "The Iraq War Lie That Created ISIS 💣 #shorts",
    "published": "2026-10-15T23:00:10Z",
-   "views": 1084,
+   "views": 1085,
    "likes": 34,
    "comments": 1,
    "seconds": 67,
@@ -286,7 +286,7 @@
    "id": "WVcBinxKl4w",
    "title": "India's Secret Files #14: Arunachal Face-Offs: The 1986 Standoff",
    "published": "2026-10-30T23:00:04Z",
-   "views": 519,
+   "views": 521,
    "likes": 11,
    "comments": 2,
    "seconds": 53,
@@ -556,7 +556,7 @@
    "id": "1g3Kc6tEUv0",
    "title": "The 1953 CIA Coup Behind Iran vs America 🛢️",
    "published": "2026-10-27T07:30:01Z",
-   "views": 202,
+   "views": 203,
    "likes": 4,
    "comments": 3,
    "seconds": 55,
@@ -574,7 +574,7 @@
    "id": "21W9Y2eLQDc",
    "title": "India's Secret Files #18: 26/11: The American Who Scouted Mumbai",
    "published": "2026-11-06T00:00:03Z",
-   "views": 195,
+   "views": 196,
    "likes": 4,
    "comments": 2,
    "seconds": 57,
@@ -823,6 +823,60 @@
    "engaged": 78
   },
   {
+   "id": "S2pBw9rChzc",
+   "title": "Lucky Strike's Torches of Freedom Stunt (1929)",
+   "published": "2026-11-18T07:30:22Z",
+   "views": 113,
+   "likes": 2,
+   "comments": 1,
+   "seconds": 49,
+   "made_by": "bot",
+   "freshness": "evergreen",
+   "region": "world",
+   "type": "declassified",
+   "avg_pct": 41.75,
+   "avg_sec": 20,
+   "shares": 0,
+   "subs": 0,
+   "engaged": 27
+  },
+  {
+   "id": "NFcYfGzK-_4",
+   "title": "ISRO's Rocket Scientist Jailed for a Fake Spy Case",
+   "published": "2026-10-27T23:00:26Z",
+   "views": 113,
+   "likes": 3,
+   "comments": 2,
+   "seconds": 53,
+   "made_by": "bot",
+   "freshness": "evergreen",
+   "region": "india",
+   "type": "declassified",
+   "avg_pct": 63.33,
+   "avg_sec": 33,
+   "shares": 0,
+   "subs": 1,
+   "engaged": 47
+  },
+  {
+   "id": "A4HVbQzf_MU",
+   "title": "Diego Garcia: The Base Built by Emptying Islands",
+   "published": "2026-11-20T07:30:28Z",
+   "views": 112,
+   "likes": 3,
+   "comments": 1,
+   "seconds": 53,
+   "made_by": "bot",
+   "freshness": "evergreen",
+   "region": "world",
+   "type": "declassified",
+   "avg_pct": 69.63,
+   "avg_sec": 36,
+   "shares": 0,
+   "subs": 0,
+   "engaged": 5
+  },
+  {
    "id": "0iOsNtF8hnc",
    "title": "Why America Banned DeepSeek From Its Computers 🤖",
    "published": "2026-10-24T23:00:03Z",
@@ -841,24 +895,6 @@
    "engaged": 72
   },
   {
-   "id": "NFcYfGzK-_4",
-   "title": "ISRO's Rocket Scientist Jailed for a Fake Spy Case",
-   "published": "2026-10-27T23:00:26Z",
-   "views": 111,
-   "likes": 3,
-   "comments": 2,
-   "seconds": 53,
-   "made_by": "bot",
-   "freshness": "evergreen",
-   "region": "india",
-   "type": "declassified",
-   "avg_pct": 63.33,
-   "avg_sec": 33,
-   "shares": 0,
-   "subs": 1,
-   "engaged": 47
-  },
-  {
    "id": "vLHgq3iLOwc",
    "title": "Russian Hackers Inside a NATO Shipyard 🚢",
    "published": "2026-10-24T14:30:17Z",
@@ -875,24 +911,6 @@
    "shares": 0,
    "subs": 0,
    "engaged": 58
-  },
-  {
-   "id": "A4HVbQzf_MU",
-   "title": "Diego Garcia: The Base Built by Emptying Islands",
-   "published": "2026-11-20T07:30:28Z",
-   "views": 107,
-   "likes": 3,
-   "comments": 1,
-   "seconds": 53,
-   "made_by": "bot",
-   "freshness": "evergreen",
-   "region": "world",
-   "type": "declassified",
-   "avg_pct": 69.63,
-   "avg_sec": 36,
-   "shares": 0,
-   "subs": 0,
-   "engaged": 5
   },
   {
    "id": "Pzh6mDmUREo",
@@ -929,24 +947,6 @@
    "shares": 0,
    "subs": 0,
    "engaged": 42
-  },
-  {
-   "id": "S2pBw9rChzc",
-   "title": "Lucky Strike's Torches of Freedom Stunt (1929)",
-   "published": "2026-11-18T07:30:22Z",
-   "views": 104,
-   "likes": 2,
-   "comments": 1,
-   "seconds": 49,
-   "made_by": "bot",
-   "freshness": "evergreen",
-   "region": "world",
-   "type": "declassified",
-   "avg_pct": 40.52,
-   "avg_sec": 19,
-   "shares": 0,
-   "subs": 0,
-   "engaged": 27
   },
   {
    "id": "Vq0ecUo2-tQ",
@@ -1006,7 +1006,7 @@
    "id": "cFQuPfQ02K0",
    "title": "Diamonds: The Slogan That Sold a Feeling",
    "published": "2026-11-16T14:30:32Z",
-   "views": 84,
+   "views": 85,
    "likes": 1,
    "comments": 1,
    "seconds": 49,
@@ -1037,6 +1037,24 @@
    "shares": 0,
    "subs": 1,
    "engaged": 50
+  },
+  {
+   "id": "OPmDfQLhTZw",
+   "title": "How India Took Air India From Tata and Sold It Back",
+   "published": "2026-11-20T14:30:39Z",
+   "views": 81,
+   "likes": 3,
+   "comments": 1,
+   "seconds": 53,
+   "made_by": "bot",
+   "freshness": "evergreen",
+   "region": "india",
+   "type": "declassified",
+   "avg_pct": null,
+   "avg_sec": null,
+   "shares": null,
+   "subs": null,
+   "engaged": null
   },
   {
    "id": "Af83Z2XIbTs",
@@ -1093,6 +1111,24 @@
    "engaged": 43
   },
   {
+   "id": "pe8gVGumyxw",
+   "title": "How America Used Wheat to Pressure India in 1966",
+   "published": "2026-11-17T00:00:08Z",
+   "views": 76,
+   "likes": 2,
+   "comments": 1,
+   "seconds": 53,
+   "made_by": "bot",
+   "freshness": "evergreen",
+   "region": "india",
+   "type": "declassified",
+   "avg_pct": 60.8,
+   "avg_sec": 32,
+   "shares": 0,
+   "subs": 0,
+   "engaged": 41
+  },
+  {
    "id": "0DNgll7H0Pw",
    "title": "CIA Family Jewels: When the CIA Spied on Journalists 📰 #shorts",
    "published": "2026-10-15T08:41:28Z",
@@ -1129,42 +1165,6 @@
    "engaged": 30
   },
   {
-   "id": "pe8gVGumyxw",
-   "title": "How America Used Wheat to Pressure India in 1966",
-   "published": "2026-11-17T00:00:08Z",
-   "views": 74,
-   "likes": 2,
-   "comments": 1,
-   "seconds": 53,
-   "made_by": "bot",
-   "freshness": "evergreen",
-   "region": "india",
-   "type": "declassified",
-   "avg_pct": 60.8,
-   "avg_sec": 32,
-   "shares": 0,
-   "subs": 0,
-   "engaged": 41
-  },
-  {
-   "id": "OPmDfQLhTZw",
-   "title": "How India Took Air India From Tata and Sold It Back",
-   "published": "2026-11-20T14:30:39Z",
-   "views": 71,
-   "likes": 2,
-   "comments": 1,
-   "seconds": 53,
-   "made_by": "bot",
-   "freshness": "evergreen",
-   "region": "india",
-   "type": "declassified",
-   "avg_pct": null,
-   "avg_sec": null,
-   "shares": null,
-   "subs": null,
-   "engaged": null
-  },
-  {
    "id": "MhA_l8DnRVQ",
    "title": "ITT, the CIA and a $1 Million Offer on Chile",
    "published": "2026-11-15T14:30:25Z",
@@ -1186,7 +1186,7 @@
    "id": "K74DJP33Vlg",
    "title": "The CIA's Secret Mission to Steal a Soviet Submarine",
    "published": "2026-11-19T07:30:01Z",
-   "views": 65,
+   "views": 66,
    "likes": 1,
    "comments": 1,
    "seconds": 52,
@@ -1330,7 +1330,7 @@
    "id": "LY5p6TDpErU",
    "title": "India's Secret Files #35: Why India Paid Its Maharajas Until 1971",
    "published": "2026-11-20T00:00:05Z",
-   "views": 50,
+   "views": 51,
    "likes": 2,
    "comments": 2,
    "seconds": 50,
@@ -1453,6 +1453,24 @@
    "engaged": 14
   },
   {
+   "id": "nNYk3IlHQos",
+   "title": "Roswell 1947 Theory: UFO or Spy Balloon? 🛸 #shorts",
+   "published": "2026-10-15T07:08:12Z",
+   "views": 41,
+   "likes": 0,
+   "comments": 1,
+   "seconds": 66,
+   "made_by": "bot",
+   "freshness": "evergreen",
+   "region": "world",
+   "type": "theory",
+   "avg_pct": 61.7,
+   "avg_sec": 40,
+   "shares": 0,
+   "subs": 0,
+   "engaged": 13
+  },
+  {
    "id": "ArIvEoDQknA",
    "title": "Nord Stream Explosion Theory: What Really Happened? #shorts",
    "published": "2026-10-14T11:19:46Z",
@@ -1469,24 +1487,6 @@
    "shares": 0,
    "subs": 0,
    "engaged": 16
-  },
-  {
-   "id": "nNYk3IlHQos",
-   "title": "Roswell 1947 Theory: UFO or Spy Balloon? 🛸 #shorts",
-   "published": "2026-10-15T07:08:12Z",
-   "views": 40,
-   "likes": 0,
-   "comments": 1,
-   "seconds": 66,
-   "made_by": "bot",
-   "freshness": "evergreen",
-   "region": "world",
-   "type": "theory",
-   "avg_pct": 61.7,
-   "avg_sec": 40,
-   "shares": 0,
-   "subs": 0,
-   "engaged": 13
   },
   {
    "id": "hnUYKfy2OlU",
@@ -1507,6 +1507,24 @@
    "engaged": 22
   },
   {
+   "id": "RLykB1iE754",
+   "title": "Lockheed Bribes: The Scandal That Toppled Tanaka",
+   "published": "2026-11-13T07:30:12Z",
+   "views": 38,
+   "likes": 0,
+   "comments": 1,
+   "seconds": 53,
+   "made_by": "bot",
+   "freshness": "evergreen",
+   "region": "world",
+   "type": "declassified",
+   "avg_pct": 48.2,
+   "avg_sec": 25,
+   "shares": 0,
+   "subs": 0,
+   "engaged": 11
+  },
+  {
    "id": "Wrb75VfRPKI",
    "title": "Black Sea Drone Attacks: A New Gulf of Tonkin? ⚓",
    "published": "2026-10-22T14:30:05Z",
@@ -1523,24 +1541,6 @@
    "shares": 0,
    "subs": 0,
    "engaged": 19
-  },
-  {
-   "id": "RLykB1iE754",
-   "title": "Lockheed Bribes: The Scandal That Toppled Tanaka",
-   "published": "2026-11-13T07:30:12Z",
-   "views": 37,
-   "likes": 0,
-   "comments": 1,
-   "seconds": 53,
-   "made_by": "bot",
-   "freshness": "evergreen",
-   "region": "world",
-   "type": "declassified",
-   "avg_pct": 48.2,
-   "avg_sec": 25,
-   "shares": 0,
-   "subs": 0,
-   "engaged": 11
   },
   {
    "id": "UxEsW_YzQkY",
@@ -1633,6 +1633,24 @@
    "engaged": 14
   },
   {
+   "id": "5hUYUQtU_bk",
+   "title": "Your Free Quiz Cost Facebook $5 Billion",
+   "published": "2026-11-16T00:00:08Z",
+   "views": 25,
+   "likes": 0,
+   "comments": 1,
+   "seconds": 55,
+   "made_by": "bot",
+   "freshness": "evergreen",
+   "region": "world",
+   "type": "declassified",
+   "avg_pct": 27.310000000000002,
+   "avg_sec": 15,
+   "shares": 0,
+   "subs": 0,
+   "engaged": 10
+  },
+  {
    "id": "wbBrfuFLnmY",
    "title": "How Britain Used India's Opium to Buy Tea",
    "published": "2026-11-12T00:00:08Z",
@@ -1669,6 +1687,42 @@
    "engaged": 10
   },
   {
+   "id": "PgJO_SEJMZI",
+   "title": "Nanda Devi: The CIA Lost a Nuclear Device in India 🏔️ #shorts",
+   "published": "2026-10-13T19:23:49Z",
+   "views": 23,
+   "likes": 1,
+   "comments": 1,
+   "seconds": 52,
+   "made_by": "bot",
+   "freshness": "evergreen",
+   "region": "india",
+   "type": "declassified",
+   "avg_pct": 67.4,
+   "avg_sec": 35,
+   "shares": 6,
+   "subs": 0,
+   "engaged": 10
+  },
+  {
+   "id": "vP1z-kbKQEM",
+   "title": "Why India Seized 14 Banks in 1969 💰",
+   "published": "2026-11-22T07:30:16Z",
+   "views": 22,
+   "likes": 0,
+   "comments": 1,
+   "seconds": 52,
+   "made_by": "bot",
+   "freshness": "evergreen",
+   "region": "india",
+   "type": "declassified",
+   "avg_pct": null,
+   "avg_sec": null,
+   "shares": null,
+   "subs": null,
+   "engaged": null
+  },
+  {
    "id": "sgzOF_T-CQk",
    "title": "Saudi Arabia's Secret US Debt Revealed After 41 Years",
    "published": "2026-11-17T14:30:00Z",
@@ -1682,24 +1736,6 @@
    "type": "declassified",
    "avg_pct": 68.74,
    "avg_sec": 37,
-   "shares": 0,
-   "subs": 0,
-   "engaged": 10
-  },
-  {
-   "id": "5hUYUQtU_bk",
-   "title": "Your Free Quiz Cost Facebook $5 Billion",
-   "published": "2026-11-16T00:00:08Z",
-   "views": 21,
-   "likes": 0,
-   "comments": 1,
-   "seconds": 55,
-   "made_by": "bot",
-   "freshness": "evergreen",
-   "region": "world",
-   "type": "declassified",
-   "avg_pct": 27.310000000000002,
-   "avg_sec": 15,
    "shares": 0,
    "subs": 0,
    "engaged": 10
@@ -1721,24 +1757,6 @@
    "shares": 0,
    "subs": 0,
    "engaged": 8
-  },
-  {
-   "id": "PgJO_SEJMZI",
-   "title": "Nanda Devi: The CIA Lost a Nuclear Device in India 🏔️ #shorts",
-   "published": "2026-10-13T19:23:49Z",
-   "views": 21,
-   "likes": 1,
-   "comments": 1,
-   "seconds": 52,
-   "made_by": "bot",
-   "freshness": "evergreen",
-   "region": "india",
-   "type": "declassified",
-   "avg_pct": 67.4,
-   "avg_sec": 35,
-   "shares": 6,
-   "subs": 0,
-   "engaged": 10
   },
   {
    "id": "S8LOEnItiNc",
@@ -1865,6 +1883,24 @@
    "shares": 0,
    "subs": 0,
    "engaged": 8
+  },
+  {
+   "id": "y6gUy9B5Nyw",
+   "title": "Iraq's Oil Smuggling Crackdown: Who Really Profits? 🛢️",
+   "published": "2026-11-21T14:30:31Z",
+   "views": 14,
+   "likes": 1,
+   "comments": 1,
+   "seconds": 53,
+   "made_by": "bot",
+   "freshness": "trending",
+   "region": "world",
+   "type": "declassified",
+   "avg_pct": null,
+   "avg_sec": null,
+   "shares": null,
+   "subs": null,
+   "engaged": null
   },
   {
    "id": "UNQFalKiyM0",
@@ -2029,6 +2065,24 @@
    "engaged": 5
   },
   {
+   "id": "iYv8GzfFO2I",
+   "title": "Big Sugar Paid Harvard to Blame Fat (1967)",
+   "published": "2026-11-19T14:30:30Z",
+   "views": 7,
+   "likes": 0,
+   "comments": 2,
+   "seconds": 53,
+   "made_by": "bot",
+   "freshness": "evergreen",
+   "region": "world",
+   "type": "declassified",
+   "avg_pct": 0,
+   "avg_sec": 0,
+   "shares": 0,
+   "subs": 0,
+   "engaged": 0
+  },
+  {
    "id": "bO_FKwDOllw",
    "title": "India's Secret Files #23: The Fernandes Order",
    "published": "2026-11-10T14:30:39Z",
@@ -2045,24 +2099,6 @@
    "shares": 0,
    "subs": 0,
    "engaged": 4
-  },
-  {
-   "id": "iYv8GzfFO2I",
-   "title": "Big Sugar Paid Harvard to Blame Fat (1967)",
-   "published": "2026-11-19T14:30:30Z",
-   "views": 6,
-   "likes": 0,
-   "comments": 2,
-   "seconds": 53,
-   "made_by": "bot",
-   "freshness": "evergreen",
-   "region": "world",
-   "type": "declassified",
-   "avg_pct": 0,
-   "avg_sec": 0,
-   "shares": 0,
-   "subs": 0,
-   "engaged": 0
   },
   {
    "id": "VXYVhYNkL7c",
@@ -2083,16 +2119,16 @@
    "engaged": 3
   },
   {
-   "id": "y6gUy9B5Nyw",
-   "title": "Iraq's Oil Smuggling Crackdown: Who Really Profits? 🛢️",
-   "published": "2026-11-21T14:30:31Z",
-   "views": 5,
+   "id": "LBFBo7foTqI",
+   "title": "Nehru's Son-in-Law Exposed India's First Big Scam 💰",
+   "published": "2026-11-22T00:00:26Z",
+   "views": 3,
    "likes": 1,
    "comments": 1,
-   "seconds": 53,
+   "seconds": 64,
    "made_by": "bot",
-   "freshness": "trending",
-   "region": "world",
+   "freshness": "evergreen",
+   "region": "india",
    "type": "declassified",
    "avg_pct": null,
    "avg_sec": null,
@@ -2390,7 +2426,7 @@
  "traffic": [
   [
    "Shorts feed (swiping)",
-   22423
+   22422
   ],
   [
    "YouTube search",
@@ -2434,10 +2470,11 @@
   ]
  ],
  "scheduled": {
-  "count": 2,
+  "count": 3,
   "times": [
-   "2026-11-22T00:00:00+00:00",
-   "2026-11-22T07:30:00+00:00"
+   "2026-11-22T14:30:00+00:00",
+   "2026-11-23T00:00:00+00:00",
+   "2026-11-23T07:30:00+00:00"
   ]
  },
  "queue": {
@@ -2503,8 +2540,16 @@
     "workflow": "Daily Short",
     "status": "in_progress",
     "result": null,
-    "started": "2026-11-21T20:59:52Z",
+    "started": "2026-11-22T08:25:42Z",
     "minutes": null,
+    "event": "schedule"
+   },
+   {
+    "workflow": "Daily Short",
+    "status": "completed",
+    "result": "success",
+    "started": "2026-11-21T20:59:52Z",
+    "minutes": 1.5,
     "event": "schedule"
    },
    {
@@ -2809,14 +2854,6 @@
     "result": "success",
     "started": "2026-11-17T09:28:57Z",
     "minutes": 21.6,
-    "event": "schedule"
-   },
-   {
-    "workflow": "Daily Short",
-    "status": "completed",
-    "result": "success",
-    "started": "2026-11-16T23:48:01Z",
-    "minutes": 1.5,
     "event": "schedule"
    }
   ]
