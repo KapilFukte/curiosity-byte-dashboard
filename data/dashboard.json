@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T16:33:25+00:00",
+ "generated_at": "2026-11-22T21:11:13+00:00",
  "channel": {
   "id": "UCIqsSPGCNSqpGZ38gzoWVug",
   "title": "CURIOSITY-BYTE ",
@@ -7,7 +7,7 @@
   "created": "2024-09-01T07:38:30.449317Z",
   "thumbnail": "https://yt3.ggpht.com/YRHdMXed5WcK0RPcMupr8g0TYDuQjTPXRytKM1iRa9yOfyABzCAJnyEI8SbiPxKf2_kyQAkkuQ=s240-c-k-c0x00ffffff-no-rj",
   "subscribers": 33,
-  "total_views": 25912,
+  "total_views": 26140,
   "video_count": 120
  },
  "first_upload": "2026-10-13T18:10:17Z",
@@ -250,7 +250,7 @@
    "id": "KHN--qgjYZE",
    "title": "India's Secret Files #13: The Secret 1962 India-China War Report",
    "published": "2026-10-29T23:00:27Z",
-   "views": 596,
+   "views": 598,
    "likes": 9,
    "comments": 4,
    "seconds": 58,
@@ -456,11 +456,11 @@
    "freshness": "evergreen",
    "region": "india",
    "type": "declassified",
-   "avg_pct": 50.09,
+   "avg_pct": 50.36000000000001,
    "avg_sec": 28,
    "shares": 0,
    "subs": 0,
-   "engaged": 169
+   "engaged": 170
   },
   {
    "id": "IcDAdgG7HeE",
@@ -672,11 +672,11 @@
    "freshness": "evergreen",
    "region": "india",
    "type": "theory",
-   "avg_pct": 60.04999999999999,
+   "avg_pct": 59.89,
    "avg_sec": 32,
    "shares": 0,
    "subs": 1,
-   "engaged": 92
+   "engaged": 94
   },
   {
    "id": "6dO6evfQ-RE",
@@ -769,6 +769,42 @@
    "engaged": 70
   },
   {
+   "id": "vP1z-kbKQEM",
+   "title": "Why India Seized 14 Banks in 1969 💰",
+   "published": "2026-11-22T07:30:16Z",
+   "views": 122,
+   "likes": 3,
+   "comments": 1,
+   "seconds": 52,
+   "made_by": "bot",
+   "freshness": "evergreen",
+   "region": "india",
+   "type": "declassified",
+   "avg_pct": null,
+   "avg_sec": null,
+   "shares": null,
+   "subs": null,
+   "engaged": null
+  },
+  {
+   "id": "S2pBw9rChzc",
+   "title": "Lucky Strike's Torches of Freedom Stunt (1929)",
+   "published": "2026-11-18T07:30:22Z",
+   "views": 122,
+   "likes": 2,
+   "comments": 1,
+   "seconds": 49,
+   "made_by": "bot",
+   "freshness": "evergreen",
+   "region": "world",
+   "type": "declassified",
+   "avg_pct": 42.46,
+   "avg_sec": 20,
+   "shares": 0,
+   "subs": 0,
+   "engaged": 29
+  },
+  {
    "id": "nIpRA_cvQzc",
    "title": "The Day India Pledged Its Gold to Survive",
    "published": "2026-11-16T07:30:02Z",
@@ -805,24 +841,6 @@
    "engaged": 62
   },
   {
-   "id": "S2pBw9rChzc",
-   "title": "Lucky Strike's Torches of Freedom Stunt (1929)",
-   "published": "2026-11-18T07:30:22Z",
-   "views": 120,
-   "likes": 2,
-   "comments": 1,
-   "seconds": 49,
-   "made_by": "bot",
-   "freshness": "evergreen",
-   "region": "world",
-   "type": "declassified",
-   "avg_pct": 41.75,
-   "avg_sec": 20,
-   "shares": 0,
-   "subs": 0,
-   "engaged": 27
-  },
-  {
    "id": "mRNU_-510GI",
    "title": "Russia's 'Exchange Pool': Hostage Diplomacy Explained 🔒",
    "published": "2026-10-18T07:30:19Z",
@@ -839,24 +857,6 @@
    "shares": 1,
    "subs": 0,
    "engaged": 78
-  },
-  {
-   "id": "vP1z-kbKQEM",
-   "title": "Why India Seized 14 Banks in 1969 💰",
-   "published": "2026-11-22T07:30:16Z",
-   "views": 115,
-   "likes": 2,
-   "comments": 1,
-   "seconds": 52,
-   "made_by": "bot",
-   "freshness": "evergreen",
-   "region": "india",
-   "type": "declassified",
-   "avg_pct": null,
-   "avg_sec": null,
-   "shares": null,
-   "subs": null,
-   "engaged": null
   },
   {
    "id": "NFcYfGzK-_4",
@@ -888,11 +888,11 @@
    "freshness": "evergreen",
    "region": "world",
    "type": "declassified",
-   "avg_pct": 69.63,
-   "avg_sec": 36,
+   "avg_pct": 66.69,
+   "avg_sec": 35,
    "shares": 0,
    "subs": 0,
-   "engaged": 5
+   "engaged": 62
   },
   {
    "id": "0iOsNtF8hnc",
@@ -988,7 +988,7 @@
    "id": "sXhoVEBjqK8",
    "title": "North Korea's AI Torpedo and the Cheonan Sinking 🌊",
    "published": "2026-10-22T23:00:31Z",
-   "views": 94,
+   "views": 95,
    "likes": 3,
    "comments": 2,
    "seconds": 42,
@@ -1006,7 +1006,7 @@
    "id": "OPmDfQLhTZw",
    "title": "How India Took Air India From Tata and Sold It Back",
    "published": "2026-11-20T14:30:39Z",
-   "views": 87,
+   "views": 91,
    "likes": 3,
    "comments": 1,
    "seconds": 53,
@@ -1014,11 +1014,11 @@
    "freshness": "evergreen",
    "region": "india",
    "type": "declassified",
-   "avg_pct": null,
-   "avg_sec": null,
-   "shares": null,
-   "subs": null,
-   "engaged": null
+   "avg_pct": 50.34,
+   "avg_sec": 26,
+   "shares": 0,
+   "subs": 0,
+   "engaged": 38
   },
   {
    "id": "KDYKXopn0uw",
@@ -1104,11 +1104,29 @@
    "freshness": "evergreen",
    "region": "world",
    "type": "theory",
-   "avg_pct": 78.4,
-   "avg_sec": 40,
+   "avg_pct": 76.56,
+   "avg_sec": 39,
    "shares": 0,
    "subs": 0,
-   "engaged": 36
+   "engaged": 37
+  },
+  {
+   "id": "pe8gVGumyxw",
+   "title": "How America Used Wheat to Pressure India in 1966",
+   "published": "2026-11-17T00:00:08Z",
+   "views": 77,
+   "likes": 2,
+   "comments": 1,
+   "seconds": 53,
+   "made_by": "bot",
+   "freshness": "evergreen",
+   "region": "india",
+   "type": "declassified",
+   "avg_pct": 60.8,
+   "avg_sec": 32,
+   "shares": 0,
+   "subs": 0,
+   "engaged": 41
   },
   {
    "id": "YBhTzFRThpU",
@@ -1127,24 +1145,6 @@
    "shares": 0,
    "subs": 0,
    "engaged": 43
-  },
-  {
-   "id": "pe8gVGumyxw",
-   "title": "How America Used Wheat to Pressure India in 1966",
-   "published": "2026-11-17T00:00:08Z",
-   "views": 76,
-   "likes": 2,
-   "comments": 1,
-   "seconds": 53,
-   "made_by": "bot",
-   "freshness": "evergreen",
-   "region": "india",
-   "type": "declassified",
-   "avg_pct": 60.8,
-   "avg_sec": 32,
-   "shares": 0,
-   "subs": 0,
-   "engaged": 41
   },
   {
    "id": "0DNgll7H0Pw",
@@ -1194,11 +1194,11 @@
    "freshness": "evergreen",
    "region": "world",
    "type": "declassified",
-   "avg_pct": 50.4,
-   "avg_sec": 29,
+   "avg_pct": 49.14,
+   "avg_sec": 28,
    "shares": 0,
    "subs": 0,
-   "engaged": 39
+   "engaged": 40
   },
   {
    "id": "K74DJP33Vlg",
@@ -1212,11 +1212,11 @@
    "freshness": "evergreen",
    "region": "world",
    "type": "declassified",
-   "avg_pct": 105.76999999999998,
-   "avg_sec": 55,
+   "avg_pct": 105.63,
+   "avg_sec": 54,
    "shares": 0,
    "subs": 0,
-   "engaged": 28
+   "engaged": 29
   },
   {
    "id": "Y-oFmyi2Alc",
@@ -1276,7 +1276,7 @@
    "id": "6ucLg2eubKQ",
    "title": "Unsolved Files #9: Was Marilyn Monroe Silenced? (Theory)",
    "published": "2026-11-07T00:00:02Z",
-   "views": 59,
+   "views": 61,
    "likes": 3,
    "comments": 2,
    "seconds": 51,
@@ -1356,11 +1356,11 @@
    "freshness": "evergreen",
    "region": "india",
    "type": "declassified",
-   "avg_pct": 46.07,
-   "avg_sec": 23,
+   "avg_pct": 51.300000000000004,
+   "avg_sec": 25,
    "shares": 0,
    "subs": 0,
-   "engaged": 4
+   "engaged": 20
   },
   {
    "id": "ZfOASgXEtSE",
@@ -1402,7 +1402,7 @@
    "id": "ADRx6dwJnzY",
    "title": "How One Briton Drew India's Border in 5 Weeks",
    "published": "2026-11-18T14:30:07Z",
-   "views": 45,
+   "views": 46,
    "likes": 0,
    "comments": 1,
    "seconds": 49,
@@ -1410,11 +1410,11 @@
    "freshness": "evergreen",
    "region": "india",
    "type": "declassified",
-   "avg_pct": 38.19,
+   "avg_pct": 37.15,
    "avg_sec": 18,
    "shares": 0,
    "subs": 0,
-   "engaged": 26
+   "engaged": 27
   },
   {
    "id": "RsJP17S4Zy8",
@@ -1654,7 +1654,7 @@
    "id": "5hUYUQtU_bk",
    "title": "Your Free Quiz Cost Facebook $5 Billion",
    "published": "2026-11-16T00:00:08Z",
-   "views": 25,
+   "views": 26,
    "likes": 0,
    "comments": 1,
    "seconds": 55,
@@ -1680,11 +1680,11 @@
    "freshness": "evergreen",
    "region": "india",
    "type": "declassified",
-   "avg_pct": 115.16999999999999,
-   "avg_sec": 63,
+   "avg_pct": 66.32,
+   "avg_sec": 36,
    "shares": 0,
    "subs": 0,
-   "engaged": 8
+   "engaged": 14
   },
   {
    "id": "nLEoIzOqd30",
@@ -1831,6 +1831,24 @@
    "engaged": 8
   },
   {
+   "id": "y6gUy9B5Nyw",
+   "title": "Iraq's Oil Smuggling Crackdown: Who Really Profits? 🛢️",
+   "published": "2026-11-21T14:30:31Z",
+   "views": 16,
+   "likes": 1,
+   "comments": 1,
+   "seconds": 53,
+   "made_by": "bot",
+   "freshness": "trending",
+   "region": "world",
+   "type": "declassified",
+   "avg_pct": null,
+   "avg_sec": null,
+   "shares": null,
+   "subs": null,
+   "engaged": null
+  },
+  {
    "id": "f-BwrWb4U_I",
    "title": "France Made Haiti Pay for Freedom: The 1825 Debt",
    "published": "2026-11-11T14:30:29Z",
@@ -1842,11 +1860,11 @@
    "freshness": "evergreen",
    "region": "world",
    "type": "declassified",
-   "avg_pct": 71.67,
-   "avg_sec": 35,
+   "avg_pct": 62.73,
+   "avg_sec": 31,
    "shares": 0,
    "subs": 0,
-   "engaged": 5
+   "engaged": 6
   },
   {
    "id": "KVGX-aV2TjE",
@@ -1883,24 +1901,6 @@
    "shares": 0,
    "subs": 0,
    "engaged": 8
-  },
-  {
-   "id": "y6gUy9B5Nyw",
-   "title": "Iraq's Oil Smuggling Crackdown: Who Really Profits? 🛢️",
-   "published": "2026-11-21T14:30:31Z",
-   "views": 14,
-   "likes": 1,
-   "comments": 1,
-   "seconds": 53,
-   "made_by": "bot",
-   "freshness": "trending",
-   "region": "world",
-   "type": "declassified",
-   "avg_pct": null,
-   "avg_sec": null,
-   "shares": null,
-   "subs": null,
-   "engaged": null
   },
   {
    "id": "UNQFalKiyM0",
@@ -1968,11 +1968,11 @@
    "freshness": "evergreen",
    "region": "world",
    "type": "declassified",
-   "avg_pct": 43.17,
-   "avg_sec": 22,
+   "avg_pct": 51.239999999999995,
+   "avg_sec": 26,
    "shares": 0,
    "subs": 0,
-   "engaged": 6
+   "engaged": 7
   },
   {
    "id": "ejQrkmWr72Y",
@@ -2029,6 +2029,24 @@
    "engaged": 5
   },
   {
+   "id": "VrKKS5Hzmvs",
+   "title": "Trump, Xi, Putin: The Nuclear Hotline Born in 1963 ☢️",
+   "published": "2026-11-22T14:30:07Z",
+   "views": 8,
+   "likes": 1,
+   "comments": 1,
+   "seconds": 58,
+   "made_by": "bot",
+   "freshness": "trending",
+   "region": "world",
+   "type": "declassified",
+   "avg_pct": null,
+   "avg_sec": null,
+   "shares": null,
+   "subs": null,
+   "engaged": null
+  },
+  {
    "id": "cTapJCxVGog",
    "title": "CIA Gold Bars: A CIA officer invented secret programs to buy",
    "published": "2026-10-27T14:30:27Z",
@@ -2076,11 +2094,11 @@
    "freshness": "evergreen",
    "region": "world",
    "type": "declassified",
-   "avg_pct": 0,
-   "avg_sec": 0,
+   "avg_pct": 43.03,
+   "avg_sec": 22,
    "shares": 0,
    "subs": 0,
-   "engaged": 0
+   "engaged": 4
   },
   {
    "id": "bO_FKwDOllw",
@@ -2101,6 +2119,24 @@
    "engaged": 4
   },
   {
+   "id": "LBFBo7foTqI",
+   "title": "Nehru's Son-in-Law Exposed India's First Big Scam 💰",
+   "published": "2026-11-22T00:00:26Z",
+   "views": 6,
+   "likes": 1,
+   "comments": 1,
+   "seconds": 64,
+   "made_by": "bot",
+   "freshness": "evergreen",
+   "region": "india",
+   "type": "declassified",
+   "avg_pct": null,
+   "avg_sec": null,
+   "shares": null,
+   "subs": null,
+   "engaged": null
+  },
+  {
    "id": "VXYVhYNkL7c",
    "title": "South Africa's State Capture: The Gupta Files",
    "published": "2026-11-10T00:00:10Z",
@@ -2119,42 +2155,6 @@
    "engaged": 3
   },
   {
-   "id": "VrKKS5Hzmvs",
-   "title": "Trump, Xi, Putin: The Nuclear Hotline Born in 1963 ☢️",
-   "published": "2026-11-22T14:30:07Z",
-   "views": 5,
-   "likes": 1,
-   "comments": 1,
-   "seconds": 58,
-   "made_by": "bot",
-   "freshness": "trending",
-   "region": "world",
-   "type": "declassified",
-   "avg_pct": null,
-   "avg_sec": null,
-   "shares": null,
-   "subs": null,
-   "engaged": null
-  },
-  {
-   "id": "LBFBo7foTqI",
-   "title": "Nehru's Son-in-Law Exposed India's First Big Scam 💰",
-   "published": "2026-11-22T00:00:26Z",
-   "views": 4,
-   "likes": 1,
-   "comments": 1,
-   "seconds": 64,
-   "made_by": "bot",
-   "freshness": "evergreen",
-   "region": "india",
-   "type": "declassified",
-   "avg_pct": null,
-   "avg_sec": null,
-   "shares": null,
-   "subs": null,
-   "engaged": null
-  },
-  {
    "id": "bfHluNY0-Nw",
    "title": "General Motors and the Leaded Petrol Cover-Up ☠️",
    "published": "2026-11-21T00:00:12Z",
@@ -2166,11 +2166,11 @@
    "freshness": "evergreen",
    "region": "world",
    "type": "declassified",
-   "avg_pct": null,
-   "avg_sec": null,
-   "shares": null,
-   "subs": null,
-   "engaged": null
+   "avg_pct": 98.36,
+   "avg_sec": 54,
+   "shares": 0,
+   "subs": 0,
+   "engaged": 2
   }
  ],
  "daily": [
@@ -2439,16 +2439,23 @@
    "minutes": 24,
    "subs_gained": 0,
    "subs_lost": 0
+  },
+  {
+   "date": "2026-11-20",
+   "views": 241,
+   "minutes": 70,
+   "subs_gained": 0,
+   "subs_lost": 0
   }
  ],
  "traffic": [
   [
    "Shorts feed (swiping)",
-   22422
+   22586
   ],
   [
    "YouTube search",
-   2671
+   2741
   ],
   [
    "Channel page",
@@ -2460,11 +2467,11 @@
   ],
   [
    "Subscribers",
-   175
+   177
   ],
   [
    "Outside links",
-   37
+   41
   ],
   [
    "Sound Page",
@@ -2480,7 +2487,7 @@
   ],
   [
    "Direct / other",
-   5
+   6
   ],
   [
    "Playlists",
@@ -2557,8 +2564,24 @@
     "workflow": "Daily Short",
     "status": "in_progress",
     "result": null,
-    "started": "2026-11-22T16:31:44Z",
+    "started": "2026-11-22T21:09:51Z",
     "minutes": null,
+    "event": "schedule"
+   },
+   {
+    "workflow": "Upload owner videos",
+    "status": "completed",
+    "result": "success",
+    "started": "2026-11-22T18:37:03Z",
+    "minutes": 0.8,
+    "event": "schedule"
+   },
+   {
+    "workflow": "Daily Short",
+    "status": "completed",
+    "result": "success",
+    "started": "2026-11-22T16:31:44Z",
+    "minutes": 1.8,
     "event": "schedule"
    },
    {
@@ -2855,22 +2878,6 @@
     "result": "success",
     "started": "2026-11-18T08:47:59Z",
     "minutes": 32.2,
-    "event": "schedule"
-   },
-   {
-    "workflow": "Daily Short",
-    "status": "completed",
-    "result": "success",
-    "started": "2026-11-17T23:04:07Z",
-    "minutes": 1.3,
-    "event": "schedule"
-   },
-   {
-    "workflow": "Upload owner videos",
-    "status": "completed",
-    "result": "success",
-    "started": "2026-11-17T19:58:11Z",
-    "minutes": 1.9,
     "event": "schedule"
    }
   ]
