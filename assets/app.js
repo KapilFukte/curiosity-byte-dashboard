@@ -251,7 +251,7 @@ function queue(dash) {
   const q = dash?.queue;
   if (!q) return ($("queue").innerHTML = '<p class="empty">Waiting for data.</p>');
   const chip = (l, n) => `<span class="chip"><b>${fmt(n)}</b> ${l}</span>`;
-  $("queue").innerHTML = `<div class="kpi"><div class="value">${fmt(q.total)}</div><div class="note">scripts ready · about ${fmt1(q.days_of_videos)} days of videos at 3 a day</div></div>
+  $("queue").innerHTML = `<div class="kpi"><div class="value">${fmt(q.total)}</div><div class="note">scripts ready · about ${fmt1(q.days_of_videos)} days of videos at 2 a day</div></div>
     <div class="chips">${chip("trending", q.trending)}${chip("evergreen", q.evergreen)}${chip("India", q.india)}${chip("world", q.world)}${chip("declassified", q.declassified)}${chip("theory", q.theory)}</div>`;
 }
 
