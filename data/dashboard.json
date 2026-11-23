@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T09:44:27+00:00",
+ "generated_at": "2026-11-23T14:30:32+00:00",
  "channel": {
   "id": "UCIqsSPGCNSqpGZ38gzoWVug",
   "title": "CURIOSITY-BYTE ",
@@ -8,7 +8,7 @@
   "thumbnail": "https://yt3.ggpht.com/YRHdMXed5WcK0RPcMupr8g0TYDuQjTPXRytKM1iRa9yOfyABzCAJnyEI8SbiPxKf2_kyQAkkuQ=s240-c-k-c0x00ffffff-no-rj",
   "subscribers": 33,
   "total_views": 26166,
-  "video_count": 122
+  "video_count": 123
  },
  "first_upload": "2026-10-13T18:10:17Z",
  "videos": [
@@ -754,7 +754,7 @@
    "id": "vP1z-kbKQEM",
    "title": "Why India Seized 14 Banks in 1969 💰",
    "published": "2026-11-22T07:30:16Z",
-   "views": 146,
+   "views": 147,
    "likes": 3,
    "comments": 1,
    "seconds": 52,
@@ -790,7 +790,7 @@
    "id": "S2pBw9rChzc",
    "title": "Lucky Strike's Torches of Freedom Stunt (1929)",
    "published": "2026-11-18T07:30:22Z",
-   "views": 123,
+   "views": 125,
    "likes": 2,
    "comments": 1,
    "seconds": 49,
@@ -1093,6 +1093,24 @@
    "engaged": 32
   },
   {
+   "id": "pe8gVGumyxw",
+   "title": "How America Used Wheat to Pressure India in 1966",
+   "published": "2026-11-17T00:00:08Z",
+   "views": 78,
+   "likes": 2,
+   "comments": 1,
+   "seconds": 53,
+   "made_by": "bot",
+   "freshness": "evergreen",
+   "region": "india",
+   "type": "declassified",
+   "avg_pct": 60.8,
+   "avg_sec": 32,
+   "shares": 0,
+   "subs": 0,
+   "engaged": 41
+  },
+  {
    "id": "HIkXQw50rKA",
    "title": "Unsolved Files #4: Accident or Plot? (Theory)",
    "published": "2026-11-04T07:30:25Z",
@@ -1109,24 +1127,6 @@
    "shares": 0,
    "subs": 0,
    "engaged": 37
-  },
-  {
-   "id": "pe8gVGumyxw",
-   "title": "How America Used Wheat to Pressure India in 1966",
-   "published": "2026-11-17T00:00:08Z",
-   "views": 77,
-   "likes": 2,
-   "comments": 1,
-   "seconds": 53,
-   "made_by": "bot",
-   "freshness": "evergreen",
-   "region": "india",
-   "type": "declassified",
-   "avg_pct": 60.8,
-   "avg_sec": 32,
-   "shares": 0,
-   "subs": 0,
-   "engaged": 41
   },
   {
    "id": "YBhTzFRThpU",
@@ -1813,6 +1813,24 @@
    "engaged": null
   },
   {
+   "id": "KVGX-aV2TjE",
+   "title": "The Nizam's Lost Million Pounds That Became £35M",
+   "published": "2026-11-19T00:00:21Z",
+   "views": 17,
+   "likes": 1,
+   "comments": 1,
+   "seconds": 51,
+   "made_by": "bot",
+   "freshness": "evergreen",
+   "region": "india",
+   "type": "declassified",
+   "avg_pct": 105.66,
+   "avg_sec": 53,
+   "shares": 0,
+   "subs": 0,
+   "engaged": 4
+  },
+  {
    "id": "8CS-vIUo2-Q",
    "title": "India's Secret Files #22: How a Company Bought Bengal",
    "published": "2026-11-10T07:30:27Z",
@@ -1847,24 +1865,6 @@
    "shares": 0,
    "subs": 0,
    "engaged": 8
-  },
-  {
-   "id": "KVGX-aV2TjE",
-   "title": "The Nizam's Lost Million Pounds That Became £35M",
-   "published": "2026-11-19T00:00:21Z",
-   "views": 16,
-   "likes": 1,
-   "comments": 1,
-   "seconds": 51,
-   "made_by": "bot",
-   "freshness": "evergreen",
-   "region": "india",
-   "type": "declassified",
-   "avg_pct": 105.66,
-   "avg_sec": 53,
-   "shares": 0,
-   "subs": 0,
-   "engaged": 4
   },
   {
    "id": "f-BwrWb4U_I",
@@ -2176,7 +2176,7 @@
    "id": "50L7eAkyRMM",
    "title": "The Bombay Plan: Tata and Birla's 1944 Blueprint",
    "published": "2026-11-23T07:30:19Z",
-   "views": 2,
+   "views": 3,
    "likes": 0,
    "comments": 1,
    "seconds": 57,
@@ -2207,6 +2207,24 @@
    "shares": 0,
    "subs": 0,
    "engaged": 2
+  },
+  {
+   "id": "bxKzTznu-cI",
+   "title": "One Rothschild Loan Bought Britain the Suez Canal 🚢",
+   "published": "2026-11-23T14:30:01Z",
+   "views": 0,
+   "likes": 0,
+   "comments": 0,
+   "seconds": 54,
+   "made_by": "bot",
+   "freshness": "evergreen",
+   "region": "world",
+   "type": "declassified",
+   "avg_pct": null,
+   "avg_sec": null,
+   "shares": null,
+   "subs": null,
+   "engaged": null
   }
  ],
  "daily": [
@@ -2531,9 +2549,8 @@
   ]
  ],
  "scheduled": {
-  "count": 3,
+  "count": 2,
   "times": [
-   "2026-11-23T14:30:00+00:00",
    "2026-11-24T00:00:00+00:00",
    "2026-11-24T07:30:00+00:00"
   ]
@@ -2546,7 +2563,7 @@
   "world": 7,
   "declassified": 14,
   "theory": 0,
-  "days_of_videos": 4.7
+  "days_of_videos": 7.0
  },
  "automation": {
   "schedules": [
@@ -2598,11 +2615,35 @@
   ],
   "runs": [
    {
-    "workflow": "Daily Short",
+    "workflow": "Channel stats",
     "status": "in_progress",
     "result": null,
-    "started": "2026-11-23T09:24:23Z",
+    "started": "2026-11-23T14:30:03Z",
     "minutes": null,
+    "event": "schedule"
+   },
+   {
+    "workflow": "Upload owner videos",
+    "status": "completed",
+    "result": "success",
+    "started": "2026-11-23T13:18:49Z",
+    "minutes": 0.9,
+    "event": "schedule"
+   },
+   {
+    "workflow": "Backup script writer",
+    "status": "completed",
+    "result": "success",
+    "started": "2026-11-23T11:01:31Z",
+    "minutes": 0.2,
+    "event": "schedule"
+   },
+   {
+    "workflow": "Daily Short",
+    "status": "completed",
+    "result": "success",
+    "started": "2026-11-23T09:24:23Z",
+    "minutes": 20.2,
     "event": "schedule"
    },
    {
@@ -2891,30 +2932,6 @@
     "result": "success",
     "started": "2026-11-18T17:26:12Z",
     "minutes": 9.7,
-    "event": "schedule"
-   },
-   {
-    "workflow": "Channel stats",
-    "status": "completed",
-    "result": "success",
-    "started": "2026-11-18T12:58:28Z",
-    "minutes": 0.4,
-    "event": "schedule"
-   },
-   {
-    "workflow": "Upload owner videos",
-    "status": "completed",
-    "result": "success",
-    "started": "2026-11-18T11:58:08Z",
-    "minutes": 10.3,
-    "event": "schedule"
-   },
-   {
-    "workflow": "Backup script writer",
-    "status": "completed",
-    "result": "success",
-    "started": "2026-11-18T10:29:31Z",
-    "minutes": 0.1,
     "event": "schedule"
    }
   ]
