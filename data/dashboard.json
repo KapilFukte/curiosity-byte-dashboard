@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T14:30:32+00:00",
+ "generated_at": "2026-11-23T20:28:28+00:00",
  "channel": {
   "id": "UCIqsSPGCNSqpGZ38gzoWVug",
   "title": "CURIOSITY-BYTE ",
@@ -34,7 +34,7 @@
    "id": "Uq_QmdpLvr4",
    "title": "Shadow Fleet: The Ghost Tankers Moving Sanctioned Oil 🛢️",
    "published": "2026-10-17T23:00:38Z",
-   "views": 1171,
+   "views": 1174,
    "likes": 10,
    "comments": 3,
    "seconds": 54,
@@ -564,11 +564,11 @@
    "freshness": "evergreen",
    "region": "world",
    "type": "declassified",
-   "avg_pct": 49.7,
+   "avg_pct": 49.35,
    "avg_sec": 27,
    "shares": 0,
    "subs": 0,
-   "engaged": 126
+   "engaged": 127
   },
   {
    "id": "21W9Y2eLQDc",
@@ -628,7 +628,7 @@
    "id": "-4x3J7kxsOE",
    "title": "The CIA's Afghan War That Ended With the Taliban 🔁",
    "published": "2026-10-26T07:30:22Z",
-   "views": 185,
+   "views": 186,
    "likes": 4,
    "comments": 2,
    "seconds": 58,
@@ -664,7 +664,7 @@
    "id": "kNnSz6K9Cgk",
    "title": "Was Shastri Poisoned in Tashkent? (Theory)",
    "published": "2026-10-25T07:30:34Z",
-   "views": 182,
+   "views": 183,
    "likes": 4,
    "comments": 2,
    "seconds": 54,
@@ -733,6 +733,24 @@
    "engaged": 84
   },
   {
+   "id": "vP1z-kbKQEM",
+   "title": "Why India Seized 14 Banks in 1969 💰",
+   "published": "2026-11-22T07:30:16Z",
+   "views": 154,
+   "likes": 3,
+   "comments": 1,
+   "seconds": 52,
+   "made_by": "bot",
+   "freshness": "evergreen",
+   "region": "india",
+   "type": "declassified",
+   "avg_pct": 65.45,
+   "avg_sec": 34,
+   "shares": 0,
+   "subs": 0,
+   "engaged": 5
+  },
+  {
    "id": "GjbtY_Fq6qw",
    "title": "Big Tobacco's Secret Memo: Doubt Is Our Product",
    "published": "2026-11-14T07:30:24Z",
@@ -749,24 +767,6 @@
    "shares": 0,
    "subs": 0,
    "engaged": 50
-  },
-  {
-   "id": "vP1z-kbKQEM",
-   "title": "Why India Seized 14 Banks in 1969 💰",
-   "published": "2026-11-22T07:30:16Z",
-   "views": 147,
-   "likes": 3,
-   "comments": 1,
-   "seconds": 52,
-   "made_by": "bot",
-   "freshness": "evergreen",
-   "region": "india",
-   "type": "declassified",
-   "avg_pct": null,
-   "avg_sec": null,
-   "shares": null,
-   "subs": null,
-   "engaged": null
   },
   {
    "id": "LD--VfgTqao",
@@ -790,7 +790,7 @@
    "id": "S2pBw9rChzc",
    "title": "Lucky Strike's Torches of Freedom Stunt (1929)",
    "published": "2026-11-18T07:30:22Z",
-   "views": 125,
+   "views": 126,
    "likes": 2,
    "comments": 1,
    "seconds": 49,
@@ -798,17 +798,17 @@
    "freshness": "evergreen",
    "region": "world",
    "type": "declassified",
-   "avg_pct": 42.46,
+   "avg_pct": 41.39,
    "avg_sec": 20,
    "shares": 0,
    "subs": 0,
-   "engaged": 28
+   "engaged": 29
   },
   {
    "id": "nIpRA_cvQzc",
    "title": "The Day India Pledged Its Gold to Survive",
    "published": "2026-11-16T07:30:02Z",
-   "views": 121,
+   "views": 123,
    "likes": 2,
    "comments": 1,
    "seconds": 49,
@@ -870,11 +870,11 @@
    "freshness": "evergreen",
    "region": "india",
    "type": "declassified",
-   "avg_pct": 63.33,
-   "avg_sec": 33,
+   "avg_pct": 61.14000000000001,
+   "avg_sec": 32,
    "shares": 0,
    "subs": 1,
-   "engaged": 47
+   "engaged": 49
   },
   {
    "id": "A4HVbQzf_MU",
@@ -888,11 +888,11 @@
    "freshness": "evergreen",
    "region": "world",
    "type": "declassified",
-   "avg_pct": 66.69,
-   "avg_sec": 35,
+   "avg_pct": 65.93,
+   "avg_sec": 34,
    "shares": 0,
    "subs": 0,
-   "engaged": 62
+   "engaged": 66
   },
   {
    "id": "0iOsNtF8hnc",
@@ -952,7 +952,7 @@
    "id": "NYkm5BG7jEw",
    "title": "The Air India Kanishka Bombing That Killed 329",
    "published": "2026-11-03T14:30:07Z",
-   "views": 105,
+   "views": 106,
    "likes": 2,
    "comments": 1,
    "seconds": 56,
@@ -1006,7 +1006,7 @@
    "id": "OPmDfQLhTZw",
    "title": "How India Took Air India From Tata and Sold It Back",
    "published": "2026-11-20T14:30:39Z",
-   "views": 91,
+   "views": 93,
    "likes": 3,
    "comments": 1,
    "seconds": 53,
@@ -1014,11 +1014,11 @@
    "freshness": "evergreen",
    "region": "india",
    "type": "declassified",
-   "avg_pct": 50.34,
-   "avg_sec": 26,
+   "avg_pct": 55.09,
+   "avg_sec": 29,
    "shares": 0,
    "subs": 0,
-   "engaged": 38
+   "engaged": 48
   },
   {
    "id": "KDYKXopn0uw",
@@ -1219,6 +1219,24 @@
    "engaged": 29
   },
   {
+   "id": "DbuxsWiEA5o",
+   "title": "The Kohinoor and the Child Maharaja of Punjab",
+   "published": "2026-11-17T07:30:02Z",
+   "views": 65,
+   "likes": 2,
+   "comments": 1,
+   "seconds": 47,
+   "made_by": "bot",
+   "freshness": "evergreen",
+   "region": "india",
+   "type": "declassified",
+   "avg_pct": 73.22,
+   "avg_sec": 34,
+   "shares": 0,
+   "subs": 0,
+   "engaged": 27
+  },
+  {
    "id": "Y-oFmyi2Alc",
    "title": "Unsolved Files #1: Were UFOs Really Spy Planes? (Theory)",
    "published": "2026-10-17T14:30:32Z",
@@ -1235,24 +1253,6 @@
    "shares": 1,
    "subs": 0,
    "engaged": 33
-  },
-  {
-   "id": "DbuxsWiEA5o",
-   "title": "The Kohinoor and the Child Maharaja of Punjab",
-   "published": "2026-11-17T07:30:02Z",
-   "views": 64,
-   "likes": 2,
-   "comments": 1,
-   "seconds": 47,
-   "made_by": "bot",
-   "freshness": "evergreen",
-   "region": "india",
-   "type": "declassified",
-   "avg_pct": 73.22,
-   "avg_sec": 34,
-   "shares": 0,
-   "subs": 0,
-   "engaged": 27
   },
   {
    "id": "6ucLg2eubKQ",
@@ -1309,6 +1309,24 @@
    "engaged": 33
   },
   {
+   "id": "XKt_kZKcCng",
+   "title": "How Climbing Permits Started the Siachen War",
+   "published": "2026-11-18T00:00:13Z",
+   "views": 54,
+   "likes": 3,
+   "comments": 1,
+   "seconds": 54,
+   "made_by": "bot",
+   "freshness": "evergreen",
+   "region": "india",
+   "type": "declassified",
+   "avg_pct": 58.31000000000001,
+   "avg_sec": 31,
+   "shares": 0,
+   "subs": 0,
+   "engaged": 24
+  },
+  {
    "id": "ZHteyFlwprY",
    "title": "Operation Mincemeat: The Dead Man Who Fooled Hitler 🧳",
    "published": "2026-11-02T14:30:32Z",
@@ -1327,24 +1345,6 @@
    "engaged": 15
   },
   {
-   "id": "XKt_kZKcCng",
-   "title": "How Climbing Permits Started the Siachen War",
-   "published": "2026-11-18T00:00:13Z",
-   "views": 53,
-   "likes": 3,
-   "comments": 1,
-   "seconds": 54,
-   "made_by": "bot",
-   "freshness": "evergreen",
-   "region": "india",
-   "type": "declassified",
-   "avg_pct": 58.31000000000001,
-   "avg_sec": 31,
-   "shares": 0,
-   "subs": 0,
-   "engaged": 24
-  },
-  {
    "id": "LY5p6TDpErU",
    "title": "India's Secret Files #35: Why India Paid Its Maharajas Until 1971",
    "published": "2026-11-20T00:00:05Z",
@@ -1356,11 +1356,11 @@
    "freshness": "evergreen",
    "region": "india",
    "type": "declassified",
-   "avg_pct": 51.300000000000004,
-   "avg_sec": 25,
+   "avg_pct": 46.49,
+   "avg_sec": 23,
    "shares": 0,
    "subs": 0,
-   "engaged": 20
+   "engaged": 24
   },
   {
    "id": "ZfOASgXEtSE",
@@ -1536,11 +1536,11 @@
    "freshness": "evergreen",
    "region": "world",
    "type": "declassified",
-   "avg_pct": 48.2,
-   "avg_sec": 25,
+   "avg_pct": 41.92,
+   "avg_sec": 22,
    "shares": 0,
    "subs": 0,
-   "engaged": 11
+   "engaged": 13
   },
   {
    "id": "Wrb75VfRPKI",
@@ -1716,11 +1716,11 @@
    "freshness": "evergreen",
    "region": "india",
    "type": "declassified",
-   "avg_pct": 67.4,
-   "avg_sec": 35,
+   "avg_pct": 71.57,
+   "avg_sec": 37,
    "shares": 6,
    "subs": 0,
-   "engaged": 10
+   "engaged": 11
   },
   {
    "id": "sgzOF_T-CQk",
@@ -1777,6 +1777,42 @@
    "engaged": 9
   },
   {
+   "id": "y6gUy9B5Nyw",
+   "title": "Iraq's Oil Smuggling Crackdown: Who Really Profits? 🛢️",
+   "published": "2026-11-21T14:30:31Z",
+   "views": 20,
+   "likes": 1,
+   "comments": 1,
+   "seconds": 53,
+   "made_by": "bot",
+   "freshness": "trending",
+   "region": "world",
+   "type": "declassified",
+   "avg_pct": 126.21,
+   "avg_sec": 66,
+   "shares": 0,
+   "subs": 0,
+   "engaged": 4
+  },
+  {
+   "id": "KVGX-aV2TjE",
+   "title": "The Nizam's Lost Million Pounds That Became £35M",
+   "published": "2026-11-19T00:00:21Z",
+   "views": 19,
+   "likes": 1,
+   "comments": 1,
+   "seconds": 51,
+   "made_by": "bot",
+   "freshness": "evergreen",
+   "region": "india",
+   "type": "declassified",
+   "avg_pct": 84.53,
+   "avg_sec": 43,
+   "shares": 0,
+   "subs": 0,
+   "engaged": 5
+  },
+  {
    "id": "t5Vj5xtEDOk",
    "title": "India's Secret Files #19: The RAW Officer Who Fled to America",
    "published": "2026-11-06T07:30:06Z",
@@ -1793,42 +1829,6 @@
    "shares": 0,
    "subs": 0,
    "engaged": 7
-  },
-  {
-   "id": "y6gUy9B5Nyw",
-   "title": "Iraq's Oil Smuggling Crackdown: Who Really Profits? 🛢️",
-   "published": "2026-11-21T14:30:31Z",
-   "views": 18,
-   "likes": 1,
-   "comments": 1,
-   "seconds": 53,
-   "made_by": "bot",
-   "freshness": "trending",
-   "region": "world",
-   "type": "declassified",
-   "avg_pct": null,
-   "avg_sec": null,
-   "shares": null,
-   "subs": null,
-   "engaged": null
-  },
-  {
-   "id": "KVGX-aV2TjE",
-   "title": "The Nizam's Lost Million Pounds That Became £35M",
-   "published": "2026-11-19T00:00:21Z",
-   "views": 17,
-   "likes": 1,
-   "comments": 1,
-   "seconds": 51,
-   "made_by": "bot",
-   "freshness": "evergreen",
-   "region": "india",
-   "type": "declassified",
-   "avg_pct": 105.66,
-   "avg_sec": 53,
-   "shares": 0,
-   "subs": 0,
-   "engaged": 4
   },
   {
    "id": "8CS-vIUo2-Q",
@@ -1921,6 +1921,24 @@
    "engaged": 6
   },
   {
+   "id": "LBFBo7foTqI",
+   "title": "Nehru's Son-in-Law Exposed India's First Big Scam 💰",
+   "published": "2026-11-22T00:00:26Z",
+   "views": 12,
+   "likes": 1,
+   "comments": 1,
+   "seconds": 64,
+   "made_by": "bot",
+   "freshness": "evergreen",
+   "region": "india",
+   "type": "declassified",
+   "avg_pct": 69.64,
+   "avg_sec": 44,
+   "shares": 0,
+   "subs": 0,
+   "engaged": 3
+  },
+  {
    "id": "plQxdq_gebA",
    "title": "Operation Rubicon: The CIA secretly owned a Swiss codemaker.",
    "published": "2026-11-09T00:00:38Z",
@@ -1957,16 +1975,16 @@
    "engaged": 7
   },
   {
-   "id": "LBFBo7foTqI",
-   "title": "Nehru's Son-in-Law Exposed India's First Big Scam 💰",
-   "published": "2026-11-22T00:00:26Z",
+   "id": "VrKKS5Hzmvs",
+   "title": "Trump, Xi, Putin: The Nuclear Hotline Born in 1963 ☢️",
+   "published": "2026-11-22T14:30:07Z",
    "views": 11,
    "likes": 1,
    "comments": 1,
-   "seconds": 64,
+   "seconds": 58,
    "made_by": "bot",
-   "freshness": "evergreen",
-   "region": "india",
+   "freshness": "trending",
+   "region": "world",
    "type": "declassified",
    "avg_pct": null,
    "avg_sec": null,
@@ -2012,7 +2030,7 @@
   },
   {
    "id": "b-GRIYuIeok",
-   "title": "What Killed the Nine Dyatlov Pass Hikers? (Theory)",
+   "title": "Dyatlov Pass Incident Theory: Dyatlov Pass: nine hikers fled 📄",
    "published": "2026-11-05T07:30:11Z",
    "views": 10,
    "likes": 2,
@@ -2027,24 +2045,6 @@
    "shares": 0,
    "subs": 0,
    "engaged": 5
-  },
-  {
-   "id": "VrKKS5Hzmvs",
-   "title": "Trump, Xi, Putin: The Nuclear Hotline Born in 1963 ☢️",
-   "published": "2026-11-22T14:30:07Z",
-   "views": 9,
-   "likes": 1,
-   "comments": 1,
-   "seconds": 58,
-   "made_by": "bot",
-   "freshness": "trending",
-   "region": "world",
-   "type": "declassified",
-   "avg_pct": null,
-   "avg_sec": null,
-   "shares": null,
-   "subs": null,
-   "engaged": null
   },
   {
    "id": "SceGDzl33D4",
@@ -2120,7 +2120,7 @@
   },
   {
    "id": "bO_FKwDOllw",
-   "title": "India's Secret Files #23: The Fernandes Order",
+   "title": "George Fernandes Coca Cola: Coca-Cola chose to leave India in",
    "published": "2026-11-10T14:30:39Z",
    "views": 7,
    "likes": 2,
@@ -2137,11 +2137,29 @@
    "engaged": 4
   },
   {
+   "id": "50L7eAkyRMM",
+   "title": "The Bombay Plan: Tata and Birla's 1944 Blueprint",
+   "published": "2026-11-23T07:30:19Z",
+   "views": 6,
+   "likes": 1,
+   "comments": 1,
+   "seconds": 57,
+   "made_by": "bot",
+   "freshness": "evergreen",
+   "region": "india",
+   "type": "declassified",
+   "avg_pct": null,
+   "avg_sec": null,
+   "shares": null,
+   "subs": null,
+   "engaged": null
+  },
+  {
    "id": "KrNfSw_rwKc",
    "title": "Marcos's Swiss Accounts: The Money Trail 💰",
    "published": "2026-11-23T00:00:34Z",
    "views": 6,
-   "likes": 0,
+   "likes": 1,
    "comments": 5,
    "seconds": 59,
    "made_by": "bot",
@@ -2156,7 +2174,7 @@
   },
   {
    "id": "VXYVhYNkL7c",
-   "title": "South Africa's State Capture: The Gupta Files",
+   "title": "South Africa State Capture: R57 billion vanished from South 💰",
    "published": "2026-11-10T00:00:10Z",
    "views": 6,
    "likes": 0,
@@ -2173,16 +2191,16 @@
    "engaged": 3
   },
   {
-   "id": "50L7eAkyRMM",
-   "title": "The Bombay Plan: Tata and Birla's 1944 Blueprint",
-   "published": "2026-11-23T07:30:19Z",
-   "views": 3,
+   "id": "bxKzTznu-cI",
+   "title": "One Rothschild Loan Bought Britain the Suez Canal 🚢",
+   "published": "2026-11-23T14:30:01Z",
+   "views": 2,
    "likes": 0,
    "comments": 1,
-   "seconds": 57,
+   "seconds": 54,
    "made_by": "bot",
    "freshness": "evergreen",
-   "region": "india",
+   "region": "world",
    "type": "declassified",
    "avg_pct": null,
    "avg_sec": null,
@@ -2207,24 +2225,6 @@
    "shares": 0,
    "subs": 0,
    "engaged": 2
-  },
-  {
-   "id": "bxKzTznu-cI",
-   "title": "One Rothschild Loan Bought Britain the Suez Canal 🚢",
-   "published": "2026-11-23T14:30:01Z",
-   "views": 0,
-   "likes": 0,
-   "comments": 0,
-   "seconds": 54,
-   "made_by": "bot",
-   "freshness": "evergreen",
-   "region": "world",
-   "type": "declassified",
-   "avg_pct": null,
-   "avg_sec": null,
-   "shares": null,
-   "subs": null,
-   "engaged": null
   }
  ],
  "daily": [
@@ -2500,16 +2500,23 @@
    "minutes": 70,
    "subs_gained": 0,
    "subs_lost": 0
+  },
+  {
+   "date": "2026-11-21",
+   "views": 127,
+   "minutes": 21,
+   "subs_gained": 0,
+   "subs_lost": 0
   }
  ],
  "traffic": [
   [
    "Shorts feed (swiping)",
-   22586
+   22637
   ],
   [
    "YouTube search",
-   2741
+   2815
   ],
   [
    "Channel page",
@@ -2521,7 +2528,7 @@
   ],
   [
    "Subscribers",
-   177
+   179
   ],
   [
    "Outside links",
@@ -2615,11 +2622,27 @@
   ],
   "runs": [
    {
-    "workflow": "Channel stats",
+    "workflow": "Daily Short",
     "status": "in_progress",
     "result": null,
-    "started": "2026-11-23T14:30:03Z",
+    "started": "2026-11-23T20:27:06Z",
     "minutes": null,
+    "event": "schedule"
+   },
+   {
+    "workflow": "Weekly SEO check",
+    "status": "completed",
+    "result": "success",
+    "started": "2026-11-23T15:20:32Z",
+    "minutes": 1.4,
+    "event": "schedule"
+   },
+   {
+    "workflow": "Channel stats",
+    "status": "completed",
+    "result": "success",
+    "started": "2026-11-23T14:30:03Z",
+    "minutes": 0.7,
     "event": "schedule"
    },
    {
@@ -2916,22 +2939,6 @@
     "result": "success",
     "started": "2026-11-18T22:39:58Z",
     "minutes": 1.4,
-    "event": "schedule"
-   },
-   {
-    "workflow": "Upload owner videos",
-    "status": "completed",
-    "result": "success",
-    "started": "2026-11-18T19:29:29Z",
-    "minutes": 0.8,
-    "event": "schedule"
-   },
-   {
-    "workflow": "Daily Short",
-    "status": "completed",
-    "result": "success",
-    "started": "2026-11-18T17:26:12Z",
-    "minutes": 9.7,
     "event": "schedule"
    }
   ]
