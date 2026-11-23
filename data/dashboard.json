@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T21:11:13+00:00",
+ "generated_at": "2026-11-23T09:44:27+00:00",
  "channel": {
   "id": "UCIqsSPGCNSqpGZ38gzoWVug",
   "title": "CURIOSITY-BYTE ",
@@ -7,8 +7,8 @@
   "created": "2024-09-01T07:38:30.449317Z",
   "thumbnail": "https://yt3.ggpht.com/YRHdMXed5WcK0RPcMupr8g0TYDuQjTPXRytKM1iRa9yOfyABzCAJnyEI8SbiPxKf2_kyQAkkuQ=s240-c-k-c0x00ffffff-no-rj",
   "subscribers": 33,
-  "total_views": 26140,
-  "video_count": 120
+  "total_views": 26166,
+  "video_count": 122
  },
  "first_upload": "2026-10-13T18:10:17Z",
  "videos": [
@@ -106,7 +106,7 @@
    "id": "QQcIMQFQSwc",
    "title": "India's Secret Files #3: Drones Drop RDX Into Rajasthan 💣",
    "published": "2026-10-19T16:00:50Z",
-   "views": 1136,
+   "views": 1137,
    "likes": 12,
    "comments": 2,
    "seconds": 62,
@@ -391,6 +391,24 @@
    "engaged": 195
   },
   {
+   "id": "9teIQneHZWk",
+   "title": "Russian Satellites Over Saudi Targets: The 2003 Echo",
+   "published": "2026-10-30T07:30:13Z",
+   "views": 331,
+   "likes": 6,
+   "comments": 2,
+   "seconds": 53,
+   "made_by": "bot",
+   "freshness": "trending",
+   "region": "world",
+   "type": "declassified",
+   "avg_pct": 52.94,
+   "avg_sec": 28,
+   "shares": 0,
+   "subs": 0,
+   "engaged": 228
+  },
+  {
    "id": "K4bRvos4rLc",
    "title": "How India Hid Its Nuclear Tests From the CIA",
    "published": "2026-10-28T23:00:04Z",
@@ -407,24 +425,6 @@
    "shares": 0,
    "subs": 0,
    "engaged": 172
-  },
-  {
-   "id": "9teIQneHZWk",
-   "title": "Russian Satellites Over Saudi Targets: The 2003 Echo",
-   "published": "2026-10-30T07:30:13Z",
-   "views": 329,
-   "likes": 6,
-   "comments": 2,
-   "seconds": 53,
-   "made_by": "bot",
-   "freshness": "trending",
-   "region": "world",
-   "type": "declassified",
-   "avg_pct": 52.94,
-   "avg_sec": 28,
-   "shares": 0,
-   "subs": 0,
-   "engaged": 228
   },
   {
    "id": "SGX1cz90e2Y",
@@ -556,7 +556,7 @@
    "id": "1g3Kc6tEUv0",
    "title": "The 1953 CIA Coup Behind Iran vs America 🛢️",
    "published": "2026-10-27T07:30:01Z",
-   "views": 203,
+   "views": 204,
    "likes": 4,
    "comments": 3,
    "seconds": 55,
@@ -574,7 +574,7 @@
    "id": "21W9Y2eLQDc",
    "title": "India's Secret Files #18: 26/11: The American Who Scouted Mumbai",
    "published": "2026-11-06T00:00:03Z",
-   "views": 196,
+   "views": 197,
    "likes": 4,
    "comments": 2,
    "seconds": 57,
@@ -751,6 +751,24 @@
    "engaged": 50
   },
   {
+   "id": "vP1z-kbKQEM",
+   "title": "Why India Seized 14 Banks in 1969 💰",
+   "published": "2026-11-22T07:30:16Z",
+   "views": 146,
+   "likes": 3,
+   "comments": 1,
+   "seconds": 52,
+   "made_by": "bot",
+   "freshness": "evergreen",
+   "region": "india",
+   "type": "declassified",
+   "avg_pct": null,
+   "avg_sec": null,
+   "shares": null,
+   "subs": null,
+   "engaged": null
+  },
+  {
    "id": "LD--VfgTqao",
    "title": "Operation Paperclip: The File They Kept Secret #shorts",
    "published": "2026-10-14T12:35:19Z",
@@ -769,28 +787,10 @@
    "engaged": 70
   },
   {
-   "id": "vP1z-kbKQEM",
-   "title": "Why India Seized 14 Banks in 1969 💰",
-   "published": "2026-11-22T07:30:16Z",
-   "views": 122,
-   "likes": 3,
-   "comments": 1,
-   "seconds": 52,
-   "made_by": "bot",
-   "freshness": "evergreen",
-   "region": "india",
-   "type": "declassified",
-   "avg_pct": null,
-   "avg_sec": null,
-   "shares": null,
-   "subs": null,
-   "engaged": null
-  },
-  {
    "id": "S2pBw9rChzc",
    "title": "Lucky Strike's Torches of Freedom Stunt (1929)",
    "published": "2026-11-18T07:30:22Z",
-   "views": 122,
+   "views": 123,
    "likes": 2,
    "comments": 1,
    "seconds": 49,
@@ -802,7 +802,7 @@
    "avg_sec": 20,
    "shares": 0,
    "subs": 0,
-   "engaged": 29
+   "engaged": 28
   },
   {
    "id": "nIpRA_cvQzc",
@@ -862,7 +862,7 @@
    "id": "NFcYfGzK-_4",
    "title": "ISRO's Rocket Scientist Jailed for a Fake Spy Case",
    "published": "2026-10-27T23:00:26Z",
-   "views": 113,
+   "views": 116,
    "likes": 3,
    "comments": 2,
    "seconds": 53,
@@ -880,7 +880,7 @@
    "id": "A4HVbQzf_MU",
    "title": "Diego Garcia: The Base Built by Emptying Islands",
    "published": "2026-11-20T07:30:28Z",
-   "views": 112,
+   "views": 113,
    "likes": 3,
    "comments": 1,
    "seconds": 53,
@@ -967,6 +967,24 @@
    "engaged": 42
   },
   {
+   "id": "sXhoVEBjqK8",
+   "title": "North Korea's AI Torpedo and the Cheonan Sinking 🌊",
+   "published": "2026-10-22T23:00:31Z",
+   "views": 96,
+   "likes": 3,
+   "comments": 2,
+   "seconds": 42,
+   "made_by": "bot",
+   "freshness": "trending",
+   "region": "world",
+   "type": "declassified",
+   "avg_pct": 60.08,
+   "avg_sec": 25,
+   "shares": 0,
+   "subs": 0,
+   "engaged": 49
+  },
+  {
    "id": "Vq0ecUo2-tQ",
    "title": "Watergate: How Five Burglars Toppled Nixon 🕵️",
    "published": "2026-10-29T14:30:28Z",
@@ -983,24 +1001,6 @@
    "shares": 0,
    "subs": 0,
    "engaged": 46
-  },
-  {
-   "id": "sXhoVEBjqK8",
-   "title": "North Korea's AI Torpedo and the Cheonan Sinking 🌊",
-   "published": "2026-10-22T23:00:31Z",
-   "views": 95,
-   "likes": 3,
-   "comments": 2,
-   "seconds": 42,
-   "made_by": "bot",
-   "freshness": "trending",
-   "region": "world",
-   "type": "declassified",
-   "avg_pct": 60.08,
-   "avg_sec": 25,
-   "shares": 0,
-   "subs": 0,
-   "engaged": 49
   },
   {
    "id": "OPmDfQLhTZw",
@@ -1042,7 +1042,7 @@
    "id": "cFQuPfQ02K0",
    "title": "Diamonds: The Slogan That Sold a Feeling",
    "published": "2026-11-16T14:30:32Z",
-   "views": 85,
+   "views": 86,
    "likes": 1,
    "comments": 1,
    "seconds": 49,
@@ -1186,7 +1186,7 @@
    "id": "MhA_l8DnRVQ",
    "title": "ITT, the CIA and a $1 Million Offer on Chile",
    "published": "2026-11-15T14:30:25Z",
-   "views": 67,
+   "views": 70,
    "likes": 2,
    "comments": 1,
    "seconds": 58,
@@ -1255,6 +1255,24 @@
    "engaged": 27
   },
   {
+   "id": "6ucLg2eubKQ",
+   "title": "Unsolved Files #9: Was Marilyn Monroe Silenced? (Theory)",
+   "published": "2026-11-07T00:00:02Z",
+   "views": 62,
+   "likes": 3,
+   "comments": 2,
+   "seconds": 51,
+   "made_by": "bot",
+   "freshness": "evergreen",
+   "region": "world",
+   "type": "theory",
+   "avg_pct": 45.81,
+   "avg_sec": 23,
+   "shares": 0,
+   "subs": 0,
+   "engaged": 25
+  },
+  {
    "id": "Zwjdwhb_nwU",
    "title": "Elon Musk's Starlink Can Slow Down an Army 🛰️",
    "published": "2026-10-23T14:30:09Z",
@@ -1271,24 +1289,6 @@
    "shares": 0,
    "subs": 0,
    "engaged": 34
-  },
-  {
-   "id": "6ucLg2eubKQ",
-   "title": "Unsolved Files #9: Was Marilyn Monroe Silenced? (Theory)",
-   "published": "2026-11-07T00:00:02Z",
-   "views": 61,
-   "likes": 3,
-   "comments": 2,
-   "seconds": 51,
-   "made_by": "bot",
-   "freshness": "evergreen",
-   "region": "world",
-   "type": "theory",
-   "avg_pct": 45.81,
-   "avg_sec": 23,
-   "shares": 0,
-   "subs": 0,
-   "engaged": 25
   },
   {
    "id": "hvw4LyMAJ_U",
@@ -1348,7 +1348,7 @@
    "id": "LY5p6TDpErU",
    "title": "India's Secret Files #35: Why India Paid Its Maharajas Until 1971",
    "published": "2026-11-20T00:00:05Z",
-   "views": 51,
+   "views": 52,
    "likes": 2,
    "comments": 2,
    "seconds": 50,
@@ -1381,6 +1381,24 @@
    "engaged": 28
   },
   {
+   "id": "ADRx6dwJnzY",
+   "title": "How One Briton Drew India's Border in 5 Weeks",
+   "published": "2026-11-18T14:30:07Z",
+   "views": 47,
+   "likes": 0,
+   "comments": 1,
+   "seconds": 49,
+   "made_by": "bot",
+   "freshness": "evergreen",
+   "region": "india",
+   "type": "declassified",
+   "avg_pct": 37.15,
+   "avg_sec": 18,
+   "shares": 0,
+   "subs": 0,
+   "engaged": 27
+  },
+  {
    "id": "N1PsBypVQns",
    "title": "Unsolved Files #5: Did NASA Fake the Moon Landing? (Theory)",
    "published": "2026-11-04T14:30:30Z",
@@ -1397,24 +1415,6 @@
    "shares": 0,
    "subs": 0,
    "engaged": 16
-  },
-  {
-   "id": "ADRx6dwJnzY",
-   "title": "How One Briton Drew India's Border in 5 Weeks",
-   "published": "2026-11-18T14:30:07Z",
-   "views": 46,
-   "likes": 0,
-   "comments": 1,
-   "seconds": 49,
-   "made_by": "bot",
-   "freshness": "evergreen",
-   "region": "india",
-   "type": "declassified",
-   "avg_pct": 37.15,
-   "avg_sec": 18,
-   "shares": 0,
-   "subs": 0,
-   "engaged": 27
   },
   {
    "id": "RsJP17S4Zy8",
@@ -1435,6 +1435,24 @@
    "engaged": 15
   },
   {
+   "id": "MK3c6iqwJSw",
+   "title": "Unsolved Files #3: Did Oswald Act Alone? (Theory)",
+   "published": "2026-11-04T00:00:05Z",
+   "views": 43,
+   "likes": 2,
+   "comments": 2,
+   "seconds": 55,
+   "made_by": "bot",
+   "freshness": "evergreen",
+   "region": "world",
+   "type": "theory",
+   "avg_pct": 67.36,
+   "avg_sec": 37,
+   "shares": 0,
+   "subs": 0,
+   "engaged": 14
+  },
+  {
    "id": "1CrqC0ngvLM",
    "title": "India's Secret Files #8: Netaji and Gumnami Baba (Theory)",
    "published": "2026-10-26T14:30:38Z",
@@ -1451,24 +1469,6 @@
    "shares": 0,
    "subs": 0,
    "engaged": 18
-  },
-  {
-   "id": "MK3c6iqwJSw",
-   "title": "Unsolved Files #3: Did Oswald Act Alone? (Theory)",
-   "published": "2026-11-04T00:00:05Z",
-   "views": 41,
-   "likes": 2,
-   "comments": 2,
-   "seconds": 55,
-   "made_by": "bot",
-   "freshness": "evergreen",
-   "region": "world",
-   "type": "theory",
-   "avg_pct": 67.36,
-   "avg_sec": 37,
-   "shares": 0,
-   "subs": 0,
-   "engaged": 14
   },
   {
    "id": "nNYk3IlHQos",
@@ -1795,6 +1795,24 @@
    "engaged": 7
   },
   {
+   "id": "y6gUy9B5Nyw",
+   "title": "Iraq's Oil Smuggling Crackdown: Who Really Profits? 🛢️",
+   "published": "2026-11-21T14:30:31Z",
+   "views": 18,
+   "likes": 1,
+   "comments": 1,
+   "seconds": 53,
+   "made_by": "bot",
+   "freshness": "trending",
+   "region": "world",
+   "type": "declassified",
+   "avg_pct": null,
+   "avg_sec": null,
+   "shares": null,
+   "subs": null,
+   "engaged": null
+  },
+  {
    "id": "8CS-vIUo2-Q",
    "title": "India's Secret Files #22: How a Company Bought Bengal",
    "published": "2026-11-10T07:30:27Z",
@@ -1831,22 +1849,22 @@
    "engaged": 8
   },
   {
-   "id": "y6gUy9B5Nyw",
-   "title": "Iraq's Oil Smuggling Crackdown: Who Really Profits? 🛢️",
-   "published": "2026-11-21T14:30:31Z",
+   "id": "KVGX-aV2TjE",
+   "title": "The Nizam's Lost Million Pounds That Became £35M",
+   "published": "2026-11-19T00:00:21Z",
    "views": 16,
    "likes": 1,
    "comments": 1,
-   "seconds": 53,
+   "seconds": 51,
    "made_by": "bot",
-   "freshness": "trending",
-   "region": "world",
+   "freshness": "evergreen",
+   "region": "india",
    "type": "declassified",
-   "avg_pct": null,
-   "avg_sec": null,
-   "shares": null,
-   "subs": null,
-   "engaged": null
+   "avg_pct": 105.66,
+   "avg_sec": 53,
+   "shares": 0,
+   "subs": 0,
+   "engaged": 4
   },
   {
    "id": "f-BwrWb4U_I",
@@ -1865,24 +1883,6 @@
    "shares": 0,
    "subs": 0,
    "engaged": 6
-  },
-  {
-   "id": "KVGX-aV2TjE",
-   "title": "The Nizam's Lost Million Pounds That Became £35M",
-   "published": "2026-11-19T00:00:21Z",
-   "views": 15,
-   "likes": 1,
-   "comments": 1,
-   "seconds": 51,
-   "made_by": "bot",
-   "freshness": "evergreen",
-   "region": "india",
-   "type": "declassified",
-   "avg_pct": 105.66,
-   "avg_sec": 53,
-   "shares": 0,
-   "subs": 0,
-   "engaged": 4
   },
   {
    "id": "0C7KZ3ItGdg",
@@ -1957,6 +1957,24 @@
    "engaged": 7
   },
   {
+   "id": "LBFBo7foTqI",
+   "title": "Nehru's Son-in-Law Exposed India's First Big Scam 💰",
+   "published": "2026-11-22T00:00:26Z",
+   "views": 11,
+   "likes": 1,
+   "comments": 1,
+   "seconds": 64,
+   "made_by": "bot",
+   "freshness": "evergreen",
+   "region": "india",
+   "type": "declassified",
+   "avg_pct": null,
+   "avg_sec": null,
+   "shares": null,
+   "subs": null,
+   "engaged": null
+  },
+  {
    "id": "C_quS0b3PeE",
    "title": "Seven Sisters: The Secret Oil Pact of 1928",
    "published": "2026-11-12T07:30:39Z",
@@ -2011,6 +2029,24 @@
    "engaged": 5
   },
   {
+   "id": "VrKKS5Hzmvs",
+   "title": "Trump, Xi, Putin: The Nuclear Hotline Born in 1963 ☢️",
+   "published": "2026-11-22T14:30:07Z",
+   "views": 9,
+   "likes": 1,
+   "comments": 1,
+   "seconds": 58,
+   "made_by": "bot",
+   "freshness": "trending",
+   "region": "world",
+   "type": "declassified",
+   "avg_pct": null,
+   "avg_sec": null,
+   "shares": null,
+   "subs": null,
+   "engaged": null
+  },
+  {
    "id": "SceGDzl33D4",
    "title": "Unsolved Files #12: Was Amelia Earhart secretly spying on",
    "published": "2026-11-06T14:30:37Z",
@@ -2027,24 +2063,6 @@
    "shares": 0,
    "subs": 0,
    "engaged": 5
-  },
-  {
-   "id": "VrKKS5Hzmvs",
-   "title": "Trump, Xi, Putin: The Nuclear Hotline Born in 1963 ☢️",
-   "published": "2026-11-22T14:30:07Z",
-   "views": 8,
-   "likes": 1,
-   "comments": 1,
-   "seconds": 58,
-   "made_by": "bot",
-   "freshness": "trending",
-   "region": "world",
-   "type": "declassified",
-   "avg_pct": null,
-   "avg_sec": null,
-   "shares": null,
-   "subs": null,
-   "engaged": null
   },
   {
    "id": "cTapJCxVGog",
@@ -2119,16 +2137,16 @@
    "engaged": 4
   },
   {
-   "id": "LBFBo7foTqI",
-   "title": "Nehru's Son-in-Law Exposed India's First Big Scam 💰",
-   "published": "2026-11-22T00:00:26Z",
+   "id": "KrNfSw_rwKc",
+   "title": "Marcos's Swiss Accounts: The Money Trail 💰",
+   "published": "2026-11-23T00:00:34Z",
    "views": 6,
-   "likes": 1,
-   "comments": 1,
-   "seconds": 64,
+   "likes": 0,
+   "comments": 5,
+   "seconds": 59,
    "made_by": "bot",
    "freshness": "evergreen",
-   "region": "india",
+   "region": "world",
    "type": "declassified",
    "avg_pct": null,
    "avg_sec": null,
@@ -2153,6 +2171,24 @@
    "shares": 0,
    "subs": 0,
    "engaged": 3
+  },
+  {
+   "id": "50L7eAkyRMM",
+   "title": "The Bombay Plan: Tata and Birla's 1944 Blueprint",
+   "published": "2026-11-23T07:30:19Z",
+   "views": 2,
+   "likes": 0,
+   "comments": 1,
+   "seconds": 57,
+   "made_by": "bot",
+   "freshness": "evergreen",
+   "region": "india",
+   "type": "declassified",
+   "avg_pct": null,
+   "avg_sec": null,
+   "shares": null,
+   "subs": null,
+   "engaged": null
   },
   {
    "id": "bfHluNY0-Nw",
@@ -2428,7 +2464,7 @@
   },
   {
    "date": "2026-11-18",
-   "views": 218,
+   "views": 217,
    "minutes": 48,
    "subs_gained": 0,
    "subs_lost": 0
@@ -2495,10 +2531,11 @@
   ]
  ],
  "scheduled": {
-  "count": 2,
+  "count": 3,
   "times": [
-   "2026-11-23T00:00:00+00:00",
-   "2026-11-23T07:30:00+00:00"
+   "2026-11-23T14:30:00+00:00",
+   "2026-11-24T00:00:00+00:00",
+   "2026-11-24T07:30:00+00:00"
   ]
  },
  "queue": {
@@ -2564,8 +2601,16 @@
     "workflow": "Daily Short",
     "status": "in_progress",
     "result": null,
-    "started": "2026-11-22T21:09:51Z",
+    "started": "2026-11-23T09:24:23Z",
     "minutes": null,
+    "event": "schedule"
+   },
+   {
+    "workflow": "Daily Short",
+    "status": "completed",
+    "result": "success",
+    "started": "2026-11-22T21:09:51Z",
+    "minutes": 1.6,
     "event": "schedule"
    },
    {
@@ -2870,14 +2915,6 @@
     "result": "success",
     "started": "2026-11-18T10:29:31Z",
     "minutes": 0.1,
-    "event": "schedule"
-   },
-   {
-    "workflow": "Daily Short",
-    "status": "completed",
-    "result": "success",
-    "started": "2026-11-18T08:47:59Z",
-    "minutes": 32.2,
     "event": "schedule"
    }
   ]
