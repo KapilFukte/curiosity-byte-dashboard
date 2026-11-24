@@ -1,6 +1,6 @@
 /* Curiosity Byte dashboard.
    data/dashboard.json — full data from the bot (after each video run + every morning)
-   data/live.json      — newest videos' view counts, refreshed every hour from YouTube's RSS
+   data/live.json      — newest videos' view counts, refreshed on the 1st and 15th from YouTube's RSS
    Everything that depends on "now" (age, views per day, countdowns, next runs) is calculated
    in the browser when the page loads. */
 "use strict";
@@ -114,7 +114,7 @@ function kpis(dash, merged) {
   const days = first ? Math.floor((NOW - first.getTime()) / DAY) : null;
   const best = vids[0];
   const items = [
-    ["Total views", fmt(totalViews), merged.extra ? `incl. ${fmt(merged.extra)} counted live this hour` : "all public videos, all time"],
+    ["Total views", fmt(totalViews), merged.extra ? `incl. ${fmt(merged.extra)} counted since the full update` : "all public videos, all time"],
     ["Subscribers", fmt(ch.subscribers), daily.length ? `${subs28 >= 0 ? "+" : ""}${fmt(subs28)} in the last 28 days` : ""],
     ["Public videos", fmt(vids.length), dash?.scheduled?.count ? `+${dash.scheduled.count} scheduled` : ""],
     ["Views · last 7 days", fmt(v7), delta == null ? "Analytics, 1–2 days behind" :
@@ -316,12 +316,12 @@ function table(merged) {
     const tags = [v.freshness, v.region === "india" ? "India" : v.region, v.type === "theory" ? "theory" : ""].filter(Boolean).map((t) => `<span class="tag">${esc(t)}</span>`).join("");
     return `<tr><td class="title"><a href="https://youtube.com/shorts/${encodeURIComponent(v.id)}" target="_blank" rel="noopener">${esc(v.title)}</a><br>${tags}</td>
       <td>${esc(localDate(new Date(v.published)))}</td>
-      <td class="num">${fmt(v.views)}${v.live ? '<span class="live-dot" title="Counted live this hour"></span>' : ""}</td>
+      <td class="num">${fmt(v.views)}${v.live ? '<span class="live-dot" title="Newer count from YouTube's feed"></span>' : ""}</td>
       <td class="num">${fmt1(v.vpd)}</td><td class="num">${v.avg_pct != null ? fmt(v.avg_pct) + "%" : "—"}</td>
       <td class="num">${fmt(v.likes)}</td><td class="num">${fmt(v.comments)}</td><td class="num">${fmt(v.shares)}</td>
       <td class="num">${fmt(v.subs)}</td><td class="num">${v.seconds ? v.seconds + "s" : "—"}</td></tr>`;
   }).join("") || `<tr><td colspan="${COLS.length}" class="empty">No videos match.</td></tr>`;
-  $("table-note").textContent = `${rows.length} of ${merged.list.length} videos · views/day is calculated now, from each video's age · a green dot = counted live this hour · watch %, shares and subs come from YouTube Analytics (1–2 days behind).`;
+  $("table-note").textContent = `${rows.length} of ${merged.list.length} videos · views/day is calculated now, from each video's age · a green dot = newer count from YouTube's feed · watch %, shares and subs come from YouTube Analytics (1–2 days behind).`;
 }
 
 /* ---------- start ---------- */
@@ -341,7 +341,7 @@ function table(merged) {
   const ch = dash?.channel;
   if (ch?.title) { const name = ch.title.trim(); $("ch-name").textContent = name; document.title = `${name} · Dashboard`; }
   if (ch?.thumbnail) { const img = $("ch-thumb"); img.src = ch.thumbnail; img.hidden = false; $("ch-dot").hidden = true; }
-  $("live-age").textContent = live?.fetched_at ? `Live views updated ${ago(live.fetched_at)}` : "Live views: waiting for the first hourly update";
+  $("live-age").textContent = live?.fetched_at ? `Views updated ${ago(live.fetched_at)}` : "Views: waiting for the next update";
   $("data-age").textContent = dash?.generated_at ? `Full data updated ${ago(dash.generated_at)}` : "";
   const merged = mergeVideos(dash, live);
   const parts = [() => kpis(dash, merged), () => dailyCharts(dash), () => subsChart(dash), () => trafficChart(dash), () => topChart(merged),
