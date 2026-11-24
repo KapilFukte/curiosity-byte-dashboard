@@ -316,7 +316,7 @@ function table(merged) {
     const tags = [v.freshness, v.region === "india" ? "India" : v.region, v.type === "theory" ? "theory" : ""].filter(Boolean).map((t) => `<span class="tag">${esc(t)}</span>`).join("");
     return `<tr><td class="title"><a href="https://youtube.com/shorts/${encodeURIComponent(v.id)}" target="_blank" rel="noopener">${esc(v.title)}</a><br>${tags}</td>
       <td>${esc(localDate(new Date(v.published)))}</td>
-      <td class="num">${fmt(v.views)}${v.live ? '<span class="live-dot" title="Newer count from YouTube's feed"></span>' : ""}</td>
+      <td class="num">${fmt(v.views)}${v.live ? '<span class="live-dot" title="Newer count from the YouTube feed"></span>' : ""}</td>
       <td class="num">${fmt1(v.vpd)}</td><td class="num">${v.avg_pct != null ? fmt(v.avg_pct) + "%" : "—"}</td>
       <td class="num">${fmt(v.likes)}</td><td class="num">${fmt(v.comments)}</td><td class="num">${fmt(v.shares)}</td>
       <td class="num">${fmt(v.subs)}</td><td class="num">${v.seconds ? v.seconds + "s" : "—"}</td></tr>`;
