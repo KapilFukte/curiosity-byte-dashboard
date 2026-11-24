@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T20:28:28+00:00",
+ "generated_at": "2026-11-24T02:31:13+00:00",
  "channel": {
   "id": "UCIqsSPGCNSqpGZ38gzoWVug",
   "title": "CURIOSITY-BYTE ",
@@ -7,8 +7,8 @@
   "created": "2024-09-01T07:38:30.449317Z",
   "thumbnail": "https://yt3.ggpht.com/YRHdMXed5WcK0RPcMupr8g0TYDuQjTPXRytKM1iRa9yOfyABzCAJnyEI8SbiPxKf2_kyQAkkuQ=s240-c-k-c0x00ffffff-no-rj",
   "subscribers": 33,
-  "total_views": 26166,
-  "video_count": 123
+  "total_views": 26211,
+  "video_count": 124
  },
  "first_upload": "2026-10-13T18:10:17Z",
  "videos": [
@@ -304,7 +304,7 @@
    "id": "WXyukzF3dOs",
    "title": "1MDB: Malaysia's Missing Billions",
    "published": "2026-11-14T00:00:16Z",
-   "views": 516,
+   "views": 517,
    "likes": 10,
    "comments": 1,
    "seconds": 53,
@@ -628,7 +628,7 @@
    "id": "-4x3J7kxsOE",
    "title": "The CIA's Afghan War That Ended With the Taliban 🔁",
    "published": "2026-10-26T07:30:22Z",
-   "views": 186,
+   "views": 187,
    "likes": 4,
    "comments": 2,
    "seconds": 58,
@@ -808,7 +808,7 @@
    "id": "nIpRA_cvQzc",
    "title": "The Day India Pledged Its Gold to Survive",
    "published": "2026-11-16T07:30:02Z",
-   "views": 123,
+   "views": 125,
    "likes": 2,
    "comments": 1,
    "seconds": 49,
@@ -880,7 +880,7 @@
    "id": "A4HVbQzf_MU",
    "title": "Diego Garcia: The Base Built by Emptying Islands",
    "published": "2026-11-20T07:30:28Z",
-   "views": 113,
+   "views": 114,
    "likes": 3,
    "comments": 1,
    "seconds": 53,
@@ -1633,6 +1633,24 @@
    "engaged": 13
   },
   {
+   "id": "5hUYUQtU_bk",
+   "title": "Your Free Quiz Cost Facebook $5 Billion",
+   "published": "2026-11-16T00:00:08Z",
+   "views": 27,
+   "likes": 0,
+   "comments": 1,
+   "seconds": 55,
+   "made_by": "bot",
+   "freshness": "evergreen",
+   "region": "world",
+   "type": "declassified",
+   "avg_pct": 27.310000000000002,
+   "avg_sec": 15,
+   "shares": 0,
+   "subs": 0,
+   "engaged": 10
+  },
+  {
    "id": "kZVisIeimeA",
    "title": "India's Secret Files #21: The Gun Deal That Shook Delhi",
    "published": "2026-11-08T14:30:25Z",
@@ -1649,24 +1667,6 @@
    "shares": 0,
    "subs": 0,
    "engaged": 14
-  },
-  {
-   "id": "5hUYUQtU_bk",
-   "title": "Your Free Quiz Cost Facebook $5 Billion",
-   "published": "2026-11-16T00:00:08Z",
-   "views": 26,
-   "likes": 0,
-   "comments": 1,
-   "seconds": 55,
-   "made_by": "bot",
-   "freshness": "evergreen",
-   "region": "world",
-   "type": "declassified",
-   "avg_pct": 27.310000000000002,
-   "avg_sec": 15,
-   "shares": 0,
-   "subs": 0,
-   "engaged": 10
   },
   {
    "id": "wbBrfuFLnmY",
@@ -1906,7 +1906,7 @@
    "id": "UNQFalKiyM0",
    "title": "The Crash That Exposed a \"Deep State\" 🕵️ #shorts",
    "published": "2026-10-13T18:10:17Z",
-   "views": 13,
+   "views": 15,
    "likes": 1,
    "comments": 0,
    "seconds": 43,
@@ -2047,6 +2047,24 @@
    "engaged": 5
   },
   {
+   "id": "KrNfSw_rwKc",
+   "title": "Marcos's Swiss Accounts: The Money Trail 💰",
+   "published": "2026-11-23T00:00:34Z",
+   "views": 9,
+   "likes": 1,
+   "comments": 5,
+   "seconds": 59,
+   "made_by": "bot",
+   "freshness": "evergreen",
+   "region": "world",
+   "type": "declassified",
+   "avg_pct": null,
+   "avg_sec": null,
+   "shares": null,
+   "subs": null,
+   "engaged": null
+  },
+  {
    "id": "SceGDzl33D4",
    "title": "Unsolved Files #12: Was Amelia Earhart secretly spying on",
    "published": "2026-11-06T14:30:37Z",
@@ -2063,6 +2081,24 @@
    "shares": 0,
    "subs": 0,
    "engaged": 5
+  },
+  {
+   "id": "50L7eAkyRMM",
+   "title": "The Bombay Plan: Tata and Birla's 1944 Blueprint",
+   "published": "2026-11-23T07:30:19Z",
+   "views": 8,
+   "likes": 1,
+   "comments": 1,
+   "seconds": 57,
+   "made_by": "bot",
+   "freshness": "evergreen",
+   "region": "india",
+   "type": "declassified",
+   "avg_pct": null,
+   "avg_sec": null,
+   "shares": null,
+   "subs": null,
+   "engaged": null
   },
   {
    "id": "cTapJCxVGog",
@@ -2101,6 +2137,24 @@
    "engaged": 5
   },
   {
+   "id": "bxKzTznu-cI",
+   "title": "One Rothschild Loan Bought Britain the Suez Canal 🚢",
+   "published": "2026-11-23T14:30:01Z",
+   "views": 7,
+   "likes": 0,
+   "comments": 1,
+   "seconds": 54,
+   "made_by": "bot",
+   "freshness": "evergreen",
+   "region": "world",
+   "type": "declassified",
+   "avg_pct": null,
+   "avg_sec": null,
+   "shares": null,
+   "subs": null,
+   "engaged": null
+  },
+  {
    "id": "iYv8GzfFO2I",
    "title": "Big Sugar Paid Harvard to Blame Fat (1967)",
    "published": "2026-11-19T14:30:30Z",
@@ -2137,42 +2191,6 @@
    "engaged": 4
   },
   {
-   "id": "50L7eAkyRMM",
-   "title": "The Bombay Plan: Tata and Birla's 1944 Blueprint",
-   "published": "2026-11-23T07:30:19Z",
-   "views": 6,
-   "likes": 1,
-   "comments": 1,
-   "seconds": 57,
-   "made_by": "bot",
-   "freshness": "evergreen",
-   "region": "india",
-   "type": "declassified",
-   "avg_pct": null,
-   "avg_sec": null,
-   "shares": null,
-   "subs": null,
-   "engaged": null
-  },
-  {
-   "id": "KrNfSw_rwKc",
-   "title": "Marcos's Swiss Accounts: The Money Trail 💰",
-   "published": "2026-11-23T00:00:34Z",
-   "views": 6,
-   "likes": 1,
-   "comments": 5,
-   "seconds": 59,
-   "made_by": "bot",
-   "freshness": "evergreen",
-   "region": "world",
-   "type": "declassified",
-   "avg_pct": null,
-   "avg_sec": null,
-   "shares": null,
-   "subs": null,
-   "engaged": null
-  },
-  {
    "id": "VXYVhYNkL7c",
    "title": "South Africa State Capture: R57 billion vanished from South 💰",
    "published": "2026-11-10T00:00:10Z",
@@ -2191,16 +2209,16 @@
    "engaged": 3
   },
   {
-   "id": "bxKzTznu-cI",
-   "title": "One Rothschild Loan Bought Britain the Suez Canal 🚢",
-   "published": "2026-11-23T14:30:01Z",
+   "id": "9NiOYXWcLU4",
+   "title": "Bengal Famine 1943 and Churchill's War Cabinet",
+   "published": "2026-11-24T00:00:31Z",
    "views": 2,
    "likes": 0,
    "comments": 1,
-   "seconds": 54,
+   "seconds": 52,
    "made_by": "bot",
    "freshness": "evergreen",
-   "region": "world",
+   "region": "india",
    "type": "declassified",
    "avg_pct": null,
    "avg_sec": null,
@@ -2512,11 +2530,11 @@
  "traffic": [
   [
    "Shorts feed (swiping)",
-   22637
+   22626
   ],
   [
    "YouTube search",
-   2815
+   2816
   ],
   [
    "Channel page",
@@ -2556,9 +2574,8 @@
   ]
  ],
  "scheduled": {
-  "count": 2,
+  "count": 1,
   "times": [
-   "2026-11-24T00:00:00+00:00",
    "2026-11-24T07:30:00+00:00"
   ]
  },
@@ -2625,8 +2642,24 @@
     "workflow": "Daily Short",
     "status": "in_progress",
     "result": null,
-    "started": "2026-11-23T20:27:06Z",
+    "started": "2026-11-24T02:29:54Z",
     "minutes": null,
+    "event": "schedule"
+   },
+   {
+    "workflow": "Upload owner videos",
+    "status": "completed",
+    "result": "success",
+    "started": "2026-11-23T22:50:13Z",
+    "minutes": 0.8,
+    "event": "schedule"
+   },
+   {
+    "workflow": "Daily Short",
+    "status": "completed",
+    "result": "success",
+    "started": "2026-11-23T20:27:06Z",
+    "minutes": 1.5,
     "event": "schedule"
    },
    {
@@ -2923,22 +2956,6 @@
     "result": "success",
     "started": "2026-11-19T10:37:07Z",
     "minutes": 0.1,
-    "event": "schedule"
-   },
-   {
-    "workflow": "Daily Short",
-    "status": "completed",
-    "result": "success",
-    "started": "2026-11-19T09:02:21Z",
-    "minutes": 46.1,
-    "event": "schedule"
-   },
-   {
-    "workflow": "Daily Short",
-    "status": "completed",
-    "result": "success",
-    "started": "2026-11-18T22:39:58Z",
-    "minutes": 1.4,
     "event": "schedule"
    }
   ]
