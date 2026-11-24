@@ -106,8 +106,7 @@
     // Publish slots (bot/schedule.py): 1:00 PM and 8:00 PM in India, 7:00 PM in New York
     // (New York changes with daylight saving, so every slot is converted from its own zone).
     (function () {
-      const slots = [["1:00 PM India time", "Asia/Kolkata", 13, 0], ["8:00 PM India time", "Asia/Kolkata", 20, 0],
-                     ["7:00 PM New York time", "America/New_York", 19, 0]];
+      const slots = [["1:00 PM India time", "Asia/Kolkata", 13, 0], ["8:00 PM India time", "Asia/Kolkata", 20, 0]];
       // The UTC moment when it is h:m on the given calendar day in time zone tz.
       function zoned(y, mo, d, h, m, tz) {
         let t = Date.UTC(y, mo, d, h, m);
